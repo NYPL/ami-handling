@@ -4,6 +4,58 @@ This document outlines shipping, handling, and reporting information related to 
 
 ![ami-specifications](https://github.com/NYPL/ami-specifications)
 
+## Section A: Overview
+
+### Objectives
+
+### The Contractor will perform preservation reformatting work on magnetic and optical audio and video media from NYPL’s collections as part of NYPL’s strategic initiative to preserve the highest at-risk collections. Learn more about NYPL’s recent Mellon-funded Audio and Moving Image Collections, Facilities, and Workflows Assessment at www.nypl.org/preservation. 
+
+### Master Service Agreement (MSA)
+
+*The MSA will establish three-year contracts for ongoing work over the course of the contract.
+Preservation staff will coordinate actual quantities and scheduling of discrete work orders over the course of the contract.**
+
+*Each discrete work order is initiated by a scope of work; the corresponding Contractor quote must be approved and signed off on by the NYPL project coordinator (Preservation), with a purchase order generated prior to the commencement of work.
+
+*The MSA is not a guarantee for work. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Original Media List
 =================
 
