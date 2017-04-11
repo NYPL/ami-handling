@@ -49,7 +49,7 @@ Preservation staff will coordinate actual quantities and scheduling of discrete 
 
 The Contractor will provide preservation reformatting of audio and moving image media as described in this document. 
 
-* Work order lifecycle
+* **Work order lifecycle**
 
   * Stages
     * A statement of work is defined by NYPL and shared with selected Contractor.
