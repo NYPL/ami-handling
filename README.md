@@ -1,6 +1,6 @@
 # AMI Overview and Project Documentation
 
-This document outlines shipping, handling and reporting details related to NYPL's strategic initiative to preserve its at-risk media collections. For corressponding information about digital asset technical specifications, please see:
+This document outlines shipping, handling, and reporting information related to NYPL's effort to preserve its at-risk media collections. For corressponding details about digital asset technical specifications, please see:
 
 ![ami-specifications](https://github.com/NYPL/ami-specifications)
 
