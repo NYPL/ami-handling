@@ -8,7 +8,7 @@ This document outlines shipping, handling, and reporting information related to 
 
 ### Objectives
 
-### The Contractor will perform preservation reformatting work on magnetic and optical audio and video media from NYPL’s collections as part of NYPL’s strategic initiative to preserve the highest at-risk collections. Learn more about NYPL’s recent Mellon-funded Audio and Moving Image Collections, Facilities, and Workflows Assessment at www.nypl.org/preservation. 
+#### The Contractor will perform preservation reformatting work on magnetic and optical audio and video media from NYPL’s collections as part of NYPL’s strategic initiative to preserve the highest at-risk collections. Learn more about NYPL’s recent Mellon-funded Audio and Moving Image Collections, Facilities, and Workflows Assessment at www.nypl.org/preservation. 
 
 ### Master Service Agreement (MSA)
 
