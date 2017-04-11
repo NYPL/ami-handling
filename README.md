@@ -13,15 +13,21 @@ The Contractor will perform preservation reformatting work on magnetic and optic
 ### Master Service Agreement (MSA)
 
 * The MSA will establish three-year contracts for ongoing work over the course of the contract.
-Preservation staff will coordinate actual quantities and scheduling of discrete work orders over the course of the contract.**
+Preservation staff will coordinate actual quantities and scheduling of discrete work orders over the course of the contract.
 
 * Each discrete work order is initiated by a scope of work; the corresponding Contractor quote must be approved and signed off on by the NYPL project coordinator (Preservation), with a purchase order generated prior to the commencement of work.
 
 * The MSA is not a guarantee for work. 
 
+### Specifications
 
+* Specifications may be modified over time to reflect changes in best practices, in NYPL’s digital infrastructure, or to reflect previously unspecified media or conditions.
 
+* For the most current and comprehensive specifications, including examples and tools developed by NYPL, see the following repositories under the NYPL GitHub space: https://github.com/NYPL   
 
+  * Media file specifications, File Naming, structure and packaging of digital assets (https://github.com/NYPL/ami-specifications)
+  * JSON specifications, controlled vocabulary, etc. (https://github.com/NYPL/ami-metadata)
+  * JSON validation, MediaConch policies, etc. (https://github.com/NYPL/ami-tools)
 
 
 
