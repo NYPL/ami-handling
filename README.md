@@ -28,17 +28,22 @@ Preservation staff will coordinate actual quantities and scheduling of discrete 
   * Media file specifications, File Naming, structure and packaging of digital assets (https://github.com/NYPL/ami-specifications)
   * JSON specifications, controlled vocabulary, etc. (https://github.com/NYPL/ami-metadata)
   * JSON validation, MediaConch policies, etc. (https://github.com/NYPL/ami-tools)
+  * External storage requirements (https://github.com/NYPL/digpres-policies)
 
+* It is the Contractor’s responsibility to refer to the web page for most recent specifications.
 
+* Specifications in place at the time of this document are attached in the Appendices.
 
+### Description of materials
 
+* This master service agreement covers magnetic and optical audio and video media from NYPL research collections. 
+  
+  * See the known formats lists in Section B. 
+  * Additional formats may be uncovered during the course of NYPL’s survey and inventory work. 
 
+* The media is in varying states of condition, due to mechanical, chemical, or biological deterioration, or variable storage and handling practices. 
 
-
-
-
-
-
+* The media may be under copyright or subject to restrictions. The Contractor shall only make copies of each item as specified in the statement of work. No other copying or distribution is authorized without NYPL written consent.
 
 
 
