@@ -298,5 +298,132 @@ Media have been organized into groups according to NYPL Preservation Master Spec
 
 ## Section C: Project Documentation
 
+### Statement of Work (SOW)
+
+  * Scope: description of body of work covered by a discrete budget, schedule, and quantity of materials.
+  * Produced by: NYPL
+  * Expected: prior to physical shipment; a Purchase Order defined by the SOW is needed prior to the beginning of work.
+  * Format: document / PDF
+  * Naming convention: (SOW_ID)_keyword_StatementOfWork_yyyymmdd.pdf
+    * Example: 2017_001_jones1_statementofwork_20170101.pdf
+  * Data fields / required information:
+    * Date, NYPL contact information, Contractor contact information, project keyword
+    * Description of work, overall schedule, estimated shipping dates, due date for delivery of digital assets, technical specifications
+    * Requirements for quote
+    * Formats and quantity list
+
+### Statement of Work Inventory
+
+  * Scope: object inventory, includes starter metadata, covered by statement of work and purchase order. 
+  * Produced by: NYPL
+  * Expected: prior to physical shipment. Ideally, a complete inventory is available to be shared with the statement of work or earlier to assist with planning. (A preliminary inventory may be shared for advanced planning.)
+  * Format: Excel spreadsheet 
+  * Naming convention: (SOW_ID)_keyword_inventory_yyyymmdd.xls
+    * Example: 2017_001_jones1_inventory_20170101.xls 
+  * Data fields / required information:
+    * Item-level information: unique IDs and starter metadata for physical source media
+    * When items are stored and shipped in archival boxes, box ID and barcode will be included.
+
+### Contractor Quote
+
+  * Scope: Scope as described by a single Statement of Work (SOW) or work request
+  * Produced by: Contractor
+  * Expected: following receipt of SOW or work request
+  * Format: PDF
+  * Naming convention: add SOW prefix to Contractor’s naming convention. (SOW_ID)_keyword_(ContractorName)_quote_yyyymmdd.pdf
+    * Example: 2017_001_jones1_vendorX_quote_20170115.pdf
+  * Submit as PDF
+  * Data fields / required information
+    * Date
+    * Contractor contact information
+    * Statement of Work ID (SOW_ID)
+    * Description of work
+    * Confirmation of ability to meet described schedule
+    * Confirmation of current specifications
+    * Fee schedule: include line item quantity, cost per item, and subtotal for each:
+      * Digitization of media formats
+      * Rehousing, and supplies
+      * Special treatment
+      * Hard drive shipping fees
+      * Hard drives storage 
+
+### Original Media Shipping Document
+
+  * Scope: source media contained in a physical shipment. May include multiple statements of work / purchase orders, but each grouping will be described separately within the shipping document. 
+  * Produced by: sender
+  * Expected: with shipment
+  * Format: Document / PDF 
+  * Naming convention: (SOW_ID)_keyword_shipment_yyyymmdd.pdf
+    * Example: 2017_001_jones1_shipment_20170201.pdf
+  * Data fields / required information:
+    * Statement of Work ID
+    * Purchase Order ID
+    * Shipper Purchase Order ID
+    * Sender contact information 
+    * Recipient contact information
+    * Shipper contact information
+    * Shipment date (and delivery date if not same day)
+    * Box-level inventory (box ID, box barcode, and quantity of items contained within)
+    * Total number of boxes and pallets
+    * Date / signature lines for sender, recipient, and shipper
+  * INSTRUCTIONS: a hard-copy should be sent with the physical shipment. Sender, shipper, and recipient should sign and date the document. Completed document should be scanned to PDF and copied to NYPL and Contractor project coordinators.
+  * NOTE: the project inventory should be used for item-level confirmation of receipt.
+
+### Did Not Receive Report
+
+  * Scope: items listed in inventory are received as expected, covered by a single SOW and PO
+  * Produced by: contactor
+  * Expected: immediately after item-level check-in by Contractor
+  * Format: Excel spreadsheet
+  * File naming convention: (SOW_ID)_keyword_didnotreceive_yyyymmdd.xls
+    * Example: 2017_001_jones1_didnotreceive_20170301.xls
+  * Data fields / required information
+    * Statement of Work ID
+    * Purchase Order ID
+    * Primary ID (NOT the root/reference filename)
+  * INSTRUCTIONS: email to NYPL project coordinator immediately after check-in - only expected if items listed on the inventory were not received.
+
+### Hard Drive Manifest
+
+  * Scope: assets contained on hard drive
+  * Produced by: Contractor
+  * Expected: with each hard drive shipped
+  * Format: Excel spreadsheet 
+  * Naming convention: (SOW_ID)_(HD ID)_hdmanifest_yyyymmdd.xls
+    * Example: 2017_001_jones1_hdmanifest_20171201.xls
+  * Data fields / required information:
+    * Statement of Work ID
+    * Purchase Order ID
+    * Hard drive serial number / ID
+    * File name
+  * INSTRUCTIONS: the hard drive manifest should be stored in the root directory of the hard drive (do not combine hard drives)
+
+### Did Not Capture Report
+
+  * Scope: description of physical objects that were unable to be fully transferred
+  * Produced by: Contractor
+  * Expected: at conclusion of project
+  * Format: Excel spreadsheet
+  * File naming convention: (SOW_ID)_keyword_didnotcapture_yyyymmdd.xls
+    * Example: 2017_001_jones1_captureissues_20171201.xls
+  * Data fields / required information
+    * Primary ID (NOT the root file name)
+    * Statement of work ID
+    * Purchase order ID
+    * Capture issue (controlled vocabulary): [playback issue, duplicate, blank media, unsupported format, NYPL inspection required]
+    * Capture problem note: [free text]
+  * INSTRUCTIONS: Email this document to the NYPL project coordinator when the final hard drive has been shipped.
+
+### Quality Control Reports
+
+  * Video
+    * Scope: for each file, a frame-level analysis of the video signal
+    * Produced by: Contractor
+    * Expected: with each hard drive shipped
+    * Format: QCTools Report (gzipped XML) (https://www.bavc.org/preserve-media/preservation-tools)
+    * Naming Convention: division_PrimaryID_v01_pm.mkv.qctools.xml.gz
+    * Instructions: 
+      * Each preservation master file should receive a corresponding QCTools report, which will be included in the PreservationMasters Bagged directory.
+      * The reports on each hard drive should only reference the media contained on the hard drive.
 
 
