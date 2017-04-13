@@ -1,4 +1,4 @@
-# AMI - Project Administration and Handling
+# AMI Project Administration and Handling
 
 <!-- MarkdownTOC -->
 
