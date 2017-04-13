@@ -199,31 +199,48 @@ The Contractor will provide preservation reformatting of audio and moving image 
   * Special treatment
   	* If any physical problems are detected, either during inspection or playback that lead to special handling, the Contractor will contact NYPL with a proposed treatment plan before proceeding. No work may commence without written consent by NYPL.
 
+  * Signal path
+    * The Contractor will establish a reformatting signal path through selection, installation, and calibration of equipment designed to ensure optimal signal transfer. 
 
+**Contractor quality control processes**
 
+  * The Contractor must perform quality control for all deliverables (including masters and service files); a similar process will be conducted by NYPL.
 
+  * The Contractor should contact NYPL with any issues that may be resolved prior to shipping the digital assets. 
+    * For example, if the metadata is not accurate or does not validate, contact NYPL to resolve the issue so that valid metadata is delivered with the digital assets and does not hold up approvals processes.
 
+  * The Contractor’s QC process should include:
+    * Confirmation that all required files are present.
+    * Filename conformance
+    * Bag conformance
+    * Checksum validation
+    * File specification conformance
+    * Metadata validity and accuracy (conformance to specifications and logical for the physical asset and related media)
+    * Playback inspection of a minimum of 10% of preservation masters, which includes at a minimum one minute each at beginning, middle, and end of file (i.e., 3 minutes total per file). 
+    * NYPL may request greater quantities of item-level quality control if persistent issues are found.
 
+**NYPL quality control processes**
 
+  * NYPL quality control processes include:
+    * Confirmation that all required files are present
+    * Filename conformance
+    * Bag conformance
+    * Checksum validation
+    * File specification conformance
+    * Metadata validity and accuracy (conformance to specifications and logical for the physical asset and related media)
+    * Playback inspection
 
+  * If deliverables fail quality control and are determined to require rework, a new QC cycle begins following receipt of corrected assets.
 
+  * The Contractor shall confirm that any issues discovered during NYPL quality control are not persistent issues across the deliverables. 
 
+## Section B: Original Media
 
-
-
-
-
-
-
-
-
-
-Original Media List
-=================
+### Original Media List
 
 Media have been organized into groups according to NYPL Preservation Master Specifications. Type refers to metadata schema format categories.
 
-## Audio Group 1
+### Audio Group 1
 
 |Type | Formats |
 | --- | ----|
@@ -232,14 +249,54 @@ Media have been organized into groups according to NYPL Preservation Master Spec
 | Audio Cassettes Analog | <ul><li>8-track</li><li>Compact Cassette</li></ul><ul><li>Microcassette</li><li>Minicassette</li></ul><ul><li>Fidelipac Cartridge</li><li>RCA Tape Cartridge</li></ul><ul><li>Elcaset (L-Cassette)</li>
 | Audio Wire | <ul><li>Magnetic Wire (Webster Chicago)</li>
 
-## Audio Group 2
+### Audio Group 2
 
 |Type | Formats |
 | --- | ----|
 | Audio Cassettes Digital | <ul><li>ADAT</li><li>DAT</li></ul><ul><li>DA-88</li><li>Digital Compact Cassette</li></ul><ul><li>Betamax (PCM)</li><li>U-Matic (PCM)</li></ul><ul>
 
-## Audio Group 3
+### Audio Group 3
 
 |Type | Formats |
 | --- | ----|
 | Audio Optical Disc | <ul><li>Audio CD-DA</li><li>Audio CD-r</li></ul><ul><li>Audio CD, pressed</li><li>Minidisc</li></ul><ul>
+
+### Rehousing
+
+**General information**
+
+  * If any original material has been rehoused, the Contractor shall re-pack original materials into the original shipping containers. 
+
+  * If there is overflow due to rehousing, the related parts must be clearly described to allow NYPL to re-associate all parts. Media should be located in the original shipping container.
+
+**Rehousing fees**
+
+  * All costs for supplies and rehousing labor should be included with the cost proposal, as described in the Contractor’s fee schedule.
+
+**Audio reel rehousing**
+
+  * Reels should be re-boxed if the original box is damaging to the tape.
+
+  * 3-inch and 5-inch reels
+    * Transfer tape from 3-inch and 5-inch reels onto 7-inch reels, and place into a new 7-inch box. 
+    * NYPL may provide pre-labelled boxes.
+
+  * 7-inch and 10.5-inch reels
+    * Reels that are warped, broken, damaged, or on oversized/broadcast hubs should be replaced.
+    * Reels that cause visible damage to the tape should be replaced.
+    * Tapes stored on pancake hubs should be wound onto 10.5-inch standard NAB reels. 
+    * Tapes stored on AEG (Bobby) pancake hubs (Agfa brand tape) should be wound onto 10.5-inch standard NAB reels. If unable to properly play these hubs with the correct adapter, do not transfer: return to NYPL with appropriate documentation. 
+    * Do not transfer 7-inch reels onto 10.5-inch reels. 
+
+  * Slotless hubs are preferred, dependent on funds approval by NYPL. If slotless hubs are not commercially available, the Contractor should reuse the original reel and wind one-eighth inch of leader tape around the hub to minimize the effect of the slot. 
+
+  * If the original boxes are causing damage the reels, or if the tape has been re-wound onto a larger reel, original boxes may be replaced with new 2-piece boxes should be constructed of either white paper-board or unbuffered Ph-neutral lignen-free board. Do not substitute polypropylene or other plastic cases unless specifically requested by NYPL. 
+
+  * All new reels and boxes will be labeled with the item identifier provided in the metadata spreadsheet.
+
+  * All original materials, including tapes, boxes, and reels will be returned to NYPL at the conclusion of the project. 
+
+## Section C: Project Documentation
+
+
+
