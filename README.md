@@ -1,15 +1,42 @@
-# AMI Overview and Project Documentation
+# AMI - Project Administration and Handling
 
-This document outlines shipping, handling, and reporting information related to NYPL's effort to preserve its at-risk media collections. For corressponding details about digital asset technical specifications, please see:
+<!-- MarkdownTOC -->
 
-![ami-specifications](https://github.com/NYPL/ami-specifications)
+- [Section A: Overview](#section-a-overview)
+  - [Objectives](#objectives)
+  - [Master Service Agreement \(MSA\)](#master-service-agreement-msa)
+  - [Specifications](#specifications)
+  - [Description of Materials](#description-of-materials)
+  - [Description of Services](#description-of-services)
+  - [Project administration](#project-administration)
+  - [Quality assurance and quality control](#quality-assurance-and-quality-control)
+- [Section B: Original Media](#section-b-original-media)
+  - [Original Media List](#original-media-list)
+  - [Audio Group 1](#audio-group-1)
+  - [Audio Group 2](#audio-group-2)
+  - [Audio Group 3](#audio-group-3)
+  - [Rehousing](#rehousing)
+- [Section C: Project Documentation](#section-c-project-documentation)
+  - [Statement of Work \(SOW\)](#statement-of-work-sow)
+  - [Statement of Work Inventory](#statement-of-work-inventory)
+  - [Contractor Quote](#contractor-quote)
+  - [Original Media Shipping Document](#original-media-shipping-document)
+  - [Did Not Receive Report](#did-not-receive-report)
+  - [Hard Drive Manifest](#hard-drive-manifest)
+  - [Did Not Capture Report](#did-not-capture-report)
+  - [Quality Control Reports](#quality-control-reports)
 
+<!-- /MarkdownTOC -->
+
+<a name="section-a-overview"></a>
 ## Section A: Overview
 
+<a name="objectives"></a>
 ### Objectives
 
 The Contractor will perform preservation reformatting work on magnetic and optical audio and video media from NYPL’s collections as part of NYPL’s strategic initiative to preserve the highest at-risk collections. Learn more about NYPL’s recent Mellon-funded Audio and Moving Image Collections, Facilities, and Workflows Assessment at www.nypl.org/preservation. 
 
+<a name="master-service-agreement-msa"></a>
 ### Master Service Agreement (MSA)
 
 * The MSA will establish three-year contracts for ongoing work over the course of the contract.
@@ -19,6 +46,7 @@ Preservation staff will coordinate actual quantities and scheduling of discrete 
 
 * The MSA is not a guarantee for work. 
 
+<a name="specifications"></a>
 ### Specifications
 
 * Specifications may be modified over time to reflect changes in best practices, in NYPL’s digital infrastructure, or to reflect previously unspecified media or conditions.
@@ -34,6 +62,7 @@ Preservation staff will coordinate actual quantities and scheduling of discrete 
 
 * Specifications in place at the time of this document are attached in the Appendices.
 
+<a name="description-of-materials"></a>
 ### Description of Materials
 
 * This master service agreement covers magnetic and optical audio and video media from NYPL research collections. 
@@ -45,6 +74,7 @@ Preservation staff will coordinate actual quantities and scheduling of discrete 
 
 * The media may be under copyright or subject to restrictions. The Contractor shall only make copies of each item as specified in the statement of work. No other copying or distribution is authorized without NYPL written consent.
 
+<a name="description-of-services"></a>
 ### Description of Services
 
 The Contractor will provide preservation reformatting of audio and moving image media as described in this document. 
@@ -140,6 +170,7 @@ The Contractor will provide preservation reformatting of audio and moving image 
   
   * No Subcontractors shall be permitted to directly handle NYPL materials or perform work on NYPL projects unless explicitly approved by NYPL. 
 
+<a name="project-administration"></a>
 ### Project administration
 
 **Oversight**
@@ -177,6 +208,7 @@ The Contractor will provide preservation reformatting of audio and moving image 
   	* The “final invoice” for each purchase order should be identified.
   	* Invoices must be emailed to both NYPL Accounts Payable (email listed on PO) and NYPL project coordinator. 
 
+<a name="quality-assurance-and-quality-control"></a>
 ### Quality assurance and quality control
 
 **Contractor quality assurance - storage and handling**
@@ -234,12 +266,15 @@ The Contractor will provide preservation reformatting of audio and moving image 
 
   * The Contractor shall confirm that any issues discovered during NYPL quality control are not persistent issues across the deliverables. 
 
+<a name="section-b-original-media"></a>
 ## Section B: Original Media
 
+<a name="original-media-list"></a>
 ### Original Media List
 
 Media have been organized into groups according to NYPL Preservation Master Specifications. Type refers to metadata schema format categories.
 
+<a name="audio-group-1"></a>
 ### Audio Group 1
 
 |Type | Formats |
@@ -249,18 +284,21 @@ Media have been organized into groups according to NYPL Preservation Master Spec
 | Audio Cassettes Analog | <ul><li>8-track</li><li>Compact Cassette</li></ul><ul><li>Microcassette</li><li>Minicassette</li></ul><ul><li>Fidelipac Cartridge</li><li>RCA Tape Cartridge</li></ul><ul><li>Elcaset (L-Cassette)</li>
 | Audio Wire | <ul><li>Magnetic Wire (Webster Chicago)</li>
 
+<a name="audio-group-2"></a>
 ### Audio Group 2
 
 |Type | Formats |
 | --- | ----|
 | Audio Cassettes Digital | <ul><li>ADAT</li><li>DAT</li></ul><ul><li>DA-88</li><li>Digital Compact Cassette</li></ul><ul><li>Betamax (PCM)</li><li>U-Matic (PCM)</li></ul><ul>
 
+<a name="audio-group-3"></a>
 ### Audio Group 3
 
 |Type | Formats |
 | --- | ----|
 | Audio Optical Disc | <ul><li>Audio CD-DA</li><li>Audio CD-r</li></ul><ul><li>Audio CD, pressed</li><li>Minidisc</li></ul><ul>
 
+<a name="rehousing"></a>
 ### Rehousing
 
 **General information**
@@ -296,8 +334,10 @@ Media have been organized into groups according to NYPL Preservation Master Spec
 
   * All original materials, including tapes, boxes, and reels will be returned to NYPL at the conclusion of the project. 
 
+<a name="section-c-project-documentation"></a>
 ## Section C: Project Documentation
 
+<a name="statement-of-work-sow"></a>
 ### Statement of Work (SOW)
 
   * Scope: description of body of work covered by a discrete budget, schedule, and quantity of materials.
@@ -312,6 +352,7 @@ Media have been organized into groups according to NYPL Preservation Master Spec
     * Requirements for quote
     * Formats and quantity list
 
+<a name="statement-of-work-inventory"></a>
 ### Statement of Work Inventory
 
   * Scope: object inventory, includes starter metadata, covered by statement of work and purchase order. 
@@ -324,6 +365,7 @@ Media have been organized into groups according to NYPL Preservation Master Spec
     * Item-level information: unique IDs and starter metadata for physical source media
     * When items are stored and shipped in archival boxes, box ID and barcode will be included.
 
+<a name="contractor-quote"></a>
 ### Contractor Quote
 
   * Scope: Scope as described by a single Statement of Work (SOW) or work request
@@ -347,6 +389,7 @@ Media have been organized into groups according to NYPL Preservation Master Spec
       * Hard drive shipping fees
       * Hard drives storage 
 
+<a name="original-media-shipping-document"></a>
 ### Original Media Shipping Document
 
   * Scope: source media contained in a physical shipment. May include multiple statements of work / purchase orders, but each grouping will be described separately within the shipping document. 
@@ -369,6 +412,7 @@ Media have been organized into groups according to NYPL Preservation Master Spec
   * INSTRUCTIONS: a hard-copy should be sent with the physical shipment. Sender, shipper, and recipient should sign and date the document. Completed document should be scanned to PDF and copied to NYPL and Contractor project coordinators.
   * NOTE: the project inventory should be used for item-level confirmation of receipt.
 
+<a name="did-not-receive-report"></a>
 ### Did Not Receive Report
 
   * Scope: items listed in inventory are received as expected, covered by a single SOW and PO
@@ -383,6 +427,7 @@ Media have been organized into groups according to NYPL Preservation Master Spec
     * Primary ID (NOT the root/reference filename)
   * INSTRUCTIONS: email to NYPL project coordinator immediately after check-in - only expected if items listed on the inventory were not received.
 
+<a name="hard-drive-manifest"></a>
 ### Hard Drive Manifest
 
   * Scope: assets contained on hard drive
@@ -398,6 +443,7 @@ Media have been organized into groups according to NYPL Preservation Master Spec
     * File name
   * INSTRUCTIONS: the hard drive manifest should be stored in the root directory of the hard drive (do not combine hard drives)
 
+<a name="did-not-capture-report"></a>
 ### Did Not Capture Report
 
   * Scope: description of physical objects that were unable to be fully transferred
@@ -414,6 +460,7 @@ Media have been organized into groups according to NYPL Preservation Master Spec
     * Capture problem note: [free text]
   * INSTRUCTIONS: Email this document to the NYPL project coordinator when the final hard drive has been shipped.
 
+<a name="quality-control-reports"></a>
 ### Quality Control Reports
 
   * Video
@@ -425,5 +472,3 @@ Media have been organized into groups according to NYPL Preservation Master Spec
     * Instructions: 
       * Each preservation master file should receive a corresponding QCTools report, which will be included in the PreservationMasters Bagged directory.
       * The reports on each hard drive should only reference the media contained on the hard drive.
-
-
