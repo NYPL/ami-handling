@@ -34,7 +34,7 @@
 <a name="objectives"></a>
 ### Objectives
 
-The Contractor will perform preservation reformatting work on magnetic and optical audio and video media from NYPL’s collections as part of NYPL’s strategic initiative to preserve the highest at-risk collections. Learn more about NYPL’s recent Mellon-funded Audio and Moving Image Collections, Facilities, and Workflows Assessment at www.nypl.org/preservation. 
+The Contractor will perform preservation reformatting work on magnetic and optical audio and video media from NYPL’s collections as part of NYPL’s strategic initiative to preserve the highest at-risk collections. Learn more about NYPL’s recent Mellon-funded Audio and Moving Image Collections, Facilities, and Workflows Assessment at www.nypl.org/preservation.
 
 <a name="master-service-agreement-msa"></a>
 ### Master Service Agreement (MSA)
@@ -44,7 +44,7 @@ Preservation staff will coordinate actual quantities and scheduling of discrete 
 
 * Each discrete work order is initiated by a scope of work; the corresponding Contractor quote must be approved and signed off on by the NYPL project coordinator (Preservation), with a purchase order generated prior to the commencement of work.
 
-* The MSA is not a guarantee for work. 
+* The MSA is not a guarantee for work.
 
 <a name="specifications"></a>
 ### Specifications
@@ -65,19 +65,19 @@ Preservation staff will coordinate actual quantities and scheduling of discrete 
 <a name="description-of-materials"></a>
 ### Description of Materials
 
-* This master service agreement covers magnetic and optical audio and video media from NYPL research collections. 
-  
-  * See the known formats lists in Section B. 
-  * Additional formats may be uncovered during the course of NYPL’s survey and inventory work. 
+* This master service agreement covers magnetic and optical audio and video media from NYPL research collections.
 
-* The media is in varying states of condition, due to mechanical, chemical, or biological deterioration, or variable storage and handling practices. 
+  * See the known formats lists in Section B.
+  * Additional formats may be uncovered during the course of NYPL’s survey and inventory work.
+
+* The media is in varying states of condition, due to mechanical, chemical, or biological deterioration, or variable storage and handling practices.
 
 * The media may be under copyright or subject to restrictions. The Contractor shall only make copies of each item as specified in the statement of work. No other copying or distribution is authorized without NYPL written consent.
 
 <a name="description-of-services"></a>
 ### Description of Services
 
-The Contractor will provide preservation reformatting of audio and moving image media as described in this document. 
+The Contractor will provide preservation reformatting of audio and moving image media as described in this document.
 
 **Work order lifecycle**
 
@@ -93,15 +93,15 @@ The Contractor will provide preservation reformatting of audio and moving image 
 
   * Quality control (QC)
     * NYPL quality control will be performed within 30 days of receipt of the digital assets.
-    * NYPL will contact the Contractor immediately with QC issues. 
-    * Any re-work based on quality control will trigger a new QC cycle. 
+    * NYPL will contact the Contractor immediately with QC issues.
+    * Any re-work based on quality control will trigger a new QC cycle.
     * There may be unforeseen circumstances that prevent NYPL from completing quality control within the designated timeframe. NYPL will notify the Contractor of any conflicts.
 
   * Rehousing
     * The Contractor shall contact NYPL with a quote within three (3) business days following check-in of physical assets if it determines that the original quote was insufficient.
 
   * Special treatment
-    * If any problems arise that warrant “special treatment” by the Contractor, the Contractor shall contact NYPL with a proposal and quote within three (3) business days. 
+    * If any problems arise that warrant “special treatment” by the Contractor, the Contractor shall contact NYPL with a proposal and quote within three (3) business days.
     * Special treatment may be considered any work beyond the limits of the purchase order.
     * Special treatment shall not commence without written approval by NYPL (the work may require a new purchase order to be generated).
 
@@ -113,7 +113,7 @@ The Contractor will provide preservation reformatting of audio and moving image 
   * Retention of digital assets
   	* Contractor shall maintain all media files, checksums, and metadata for **60 days following NYPL’s quality control approval of all hard drives.**
   	* Immediately following this period, the Contractor shall provide confirmation of secure deletion of NYPL digital assets from the Contractor’s servers and backup storage.
-	
+
 **Deliverables - technical specifications**
 
   * Specifications may be modified over time to reflect changes in best practices or NYPL’s digital infrastructure, or to reflect previously unspecified media or conditions.
@@ -132,16 +132,16 @@ The Contractor will provide preservation reformatting of audio and moving image 
 
 **Shipment of physical media**
 
-  * Shipment of original physical media both to and from the Contractor shall be arranged by NYPL, using a shipper selected by NYPL. 
+  * Shipment of original physical media both to and from the Contractor shall be arranged by NYPL, using a shipper selected by NYPL.
 
   * NYPL shall be responsible for shipper fees.
 
   * Following successful quality control of the final digital assets covered by work order, NYPL will arrange return of the original media.
 
-  * The Contractor shall re-pack original media in the original shipping containers. 
+  * The Contractor shall re-pack original media in the original shipping containers.
 
   * Rehoused items
-  	* If any original media has been rehoused, all components shall be packed together in the shipping container. 
+  	* If any original media has been rehoused, all components shall be packed together in the shipping container.
   	* If some components no longer fit as a result of rehousing, additional containers may be used.
   	* Original housings must be clearly associated with the rehoused materials.
 
@@ -157,7 +157,7 @@ The Contractor will provide preservation reformatting of audio and moving image 
 
   * The Contractor shall cover shipping fees that have been incurred due to failed quality control of a hard drive (failed hard drives returned to the Contractor, and corrected hard drives shipped to NYPL).
 
-  * A pilot hard drive containing at least 10 fully completed bags should be delivered immediately, subject to a comprehensive review by NYPL, with feedback and resolution as needed. 
+  * A pilot hard drive containing at least 10 fully completed bags should be delivered immediately, subject to a comprehensive review by NYPL, with feedback and resolution as needed.
      * Pilot drives will not be considered deliverables. All digital objects provided on Pilot drives must be re-delivered on subsequent drives.
      * NYPL will return the pilot drive following feedback, so that the pilot drive may be reused.
 
@@ -166,16 +166,16 @@ The Contractor will provide preservation reformatting of audio and moving image 
 
 **Off-site work or subcontracts**
 
-  * All work shall be performed at the Contractor’s work site. 
-  
-  * No Subcontractors shall be permitted to directly handle NYPL materials or perform work on NYPL projects unless explicitly approved by NYPL. 
+  * All work shall be performed at the Contractor’s work site.
+
+  * No Subcontractors shall be permitted to directly handle NYPL materials or perform work on NYPL projects unless explicitly approved by NYPL.
 
 <a name="project-administration"></a>
 ### Project administration
 
 **Oversight**
 
-  * NYPL reserves the right to inspect the Contractor’s facility prior to the award of the contract and during the term of the contract. 
+  * NYPL reserves the right to inspect the Contractor’s facility prior to the award of the contract and during the term of the contract.
 
 **Communication**
 
@@ -183,7 +183,7 @@ The Contractor will provide preservation reformatting of audio and moving image 
 
 **Contract documents**
 
-  * Each discrete work order covered by the master service agreement must have the following documents: 
+  * Each discrete work order covered by the master service agreement must have the following documents:
   	* Statement of work created by NYPL preservation staff.
   	* Contractor response to include a quote and an agreement to meet the scope and deadline.
   	* Resulting purchase order provided by NYPL.
@@ -197,7 +197,7 @@ The Contractor will provide preservation reformatting of audio and moving image 
 
   * Purchase orders
   	* Contractor work may not commence until a purchase order has been generated by NYPL.
-  	* NYPL purchase orders are not-to-exceed agreements. 
+  	* NYPL purchase orders are not-to-exceed agreements.
   	* The Contractor must contact NYPL immediately if any issues are found. The Contractor will provide a proposal if the original media requires extensive special handling. The proposal will include a description of work and all other components listed under “Contractor Quote” (information found in Project Documentation section).
 
   * Contractor invoices
@@ -206,7 +206,7 @@ The Contractor will provide preservation reformatting of audio and moving image 
   	* Hard drive IDs (when applicable)
   	* Total count of physical media
   	* The “final invoice” for each purchase order should be identified.
-  	* Invoices must be emailed to both NYPL Accounts Payable (email listed on PO) and NYPL project coordinator. 
+  	* Invoices must be emailed to both NYPL Accounts Payable (email listed on PO) and NYPL project coordinator.
 
 <a name="quality-assurance-and-quality-control"></a>
 ### Quality assurance and quality control
@@ -214,31 +214,31 @@ The Contractor will provide preservation reformatting of audio and moving image 
 **Contractor quality assurance - storage and handling**
 
   * IASA-TC05
-  	* The Contractor will use great care in the handling of original materials and comply with the standards recommended practices, and strategies of IASA-TC -5, Handling and Storage of Audio and Video Carriers. 
+  	* The Contractor will use great care in the handling of original materials and comply with the standards recommended practices, and strategies of IASA-TC -5, Handling and Storage of Audio and Video Carriers.
 
   * Additional storage and handling resources:
-  	* NIST Special Publication 500-252: Information Technology: Care and Handling of CDs and DVDs — A Guide for Librarians and Archivists 
+  	* NIST Special Publication 500-252: Information Technology: Care and Handling of CDs and DVDs — A Guide for Librarians and Archivists
   	* ISO 18933:2012 Imaging materials -- Magnetic tape -- Care and handling practices for extended usage
 
   * Environment
-  	* When the materials are not being transferred, they will be stored in an environment that is free of food, water, sunlight, and strong magnetic fields. 
+  	* When the materials are not being transferred, they will be stored in an environment that is free of food, water, sunlight, and strong magnetic fields.
   	* Temperature in the storage area will be between 45 - 65 degrees Fahrenheit.
   	* Relative humidity will be between 30% - 50%.
 
   * Inspection
-  	* The Contractor will complete a thorough visual inspection before playback. 
+  	* The Contractor will complete a thorough visual inspection before playback.
 
   * Special treatment
   	* If any physical problems are detected, either during inspection or playback that lead to special handling, the Contractor will contact NYPL with a proposed treatment plan before proceeding. No work may commence without written consent by NYPL.
 
   * Signal path
-    * The Contractor will establish a reformatting signal path through selection, installation, and calibration of equipment designed to ensure optimal signal transfer. 
+    * The Contractor will establish a reformatting signal path through selection, installation, and calibration of equipment designed to ensure optimal signal transfer.
 
 **Contractor quality control processes**
 
   * The Contractor must perform quality control for all deliverables (including masters and service files); a similar process will be conducted by NYPL.
 
-  * The Contractor should contact NYPL with any issues that may be resolved prior to shipping the digital assets. 
+  * The Contractor should contact NYPL with any issues that may be resolved prior to shipping the digital assets.
     * For example, if the metadata is not accurate or does not validate, contact NYPL to resolve the issue so that valid metadata is delivered with the digital assets and does not hold up approvals processes.
 
   * The Contractor’s QC process should include:
@@ -248,7 +248,7 @@ The Contractor will provide preservation reformatting of audio and moving image 
     * Checksum validation
     * File specification conformance
     * Metadata validity and accuracy (conformance to specifications and logical for the physical asset and related media)
-    * Playback inspection of a minimum of 10% of preservation masters, which includes at a minimum one minute each at beginning, middle, and end of file (i.e., 3 minutes total per file). 
+    * Playback inspection of a minimum of 10% of preservation masters, which includes at a minimum one minute each at beginning, middle, and end of file (i.e., 3 minutes total per file).
     * NYPL may request greater quantities of item-level quality control if persistent issues are found.
 
 **NYPL quality control processes**
@@ -264,7 +264,7 @@ The Contractor will provide preservation reformatting of audio and moving image 
 
   * If deliverables fail quality control and are determined to require rework, a new QC cycle begins following receipt of corrected assets.
 
-  * The Contractor shall confirm that any issues discovered during NYPL quality control are not persistent issues across the deliverables. 
+  * The Contractor shall confirm that any issues discovered during NYPL quality control are not persistent issues across the deliverables.
 
 <a name="section-b-original-media"></a>
 ## Section B: Original Media
@@ -298,12 +298,19 @@ Media have been organized into groups according to NYPL Preservation Master Spec
 | --- | ----|
 | Audio Optical Disc | <ul><li>Audio CD-DA</li><li>Audio CD-r</li></ul><ul><li>Audio CD, pressed</li><li>Minidisc</li></ul><ul>
 
+<a name="video-group-1"></a>
+### Video Group 1
+
+|Type | Formats |
+| --- | ----|
+| Video Cassette Analog | <ul><li>Betacam</li></ul><ul><li>Betacam SP</li></ul><ul><li>Hi8</li></ul><ul><li>MII</li></ul><ul><li>S-VHS</li></ul>
+
 <a name="rehousing"></a>
 ### Rehousing
 
 **General information**
 
-  * If any original material has been rehoused, the Contractor shall re-pack original materials into the original shipping containers. 
+  * If any original material has been rehoused, the Contractor shall re-pack original materials into the original shipping containers.
 
   * If there is overflow due to rehousing, the related parts must be clearly described to allow NYPL to re-associate all parts. Media should be located in the original shipping container.
 
@@ -316,23 +323,23 @@ Media have been organized into groups according to NYPL Preservation Master Spec
   * Reels should be re-boxed if the original box is damaging to the tape.
 
   * 3-inch and 5-inch reels
-    * Transfer tape from 3-inch and 5-inch reels onto 7-inch reels, and place into a new 7-inch box. 
+    * Transfer tape from 3-inch and 5-inch reels onto 7-inch reels, and place into a new 7-inch box.
     * NYPL may provide pre-labelled boxes.
 
   * 7-inch and 10.5-inch reels
     * Reels that are warped, broken, damaged, or on oversized/broadcast hubs should be replaced.
     * Reels that cause visible damage to the tape should be replaced.
-    * Tapes stored on pancake hubs should be wound onto 10.5-inch standard NAB reels. 
-    * Tapes stored on AEG (Bobby) pancake hubs (Agfa brand tape) should be wound onto 10.5-inch standard NAB reels. If unable to properly play these hubs with the correct adapter, do not transfer: return to NYPL with appropriate documentation. 
-    * Do not transfer 7-inch reels onto 10.5-inch reels. 
+    * Tapes stored on pancake hubs should be wound onto 10.5-inch standard NAB reels.
+    * Tapes stored on AEG (Bobby) pancake hubs (Agfa brand tape) should be wound onto 10.5-inch standard NAB reels. If unable to properly play these hubs with the correct adapter, do not transfer: return to NYPL with appropriate documentation.
+    * Do not transfer 7-inch reels onto 10.5-inch reels.
 
-  * Slotless hubs are preferred, dependent on funds approval by NYPL. If slotless hubs are not commercially available, the Contractor should reuse the original reel and wind one-eighth inch of leader tape around the hub to minimize the effect of the slot. 
+  * Slotless hubs are preferred, dependent on funds approval by NYPL. If slotless hubs are not commercially available, the Contractor should reuse the original reel and wind one-eighth inch of leader tape around the hub to minimize the effect of the slot.
 
-  * If the original boxes are causing damage the reels, or if the tape has been re-wound onto a larger reel, original boxes may be replaced with new 2-piece boxes should be constructed of either white paper-board or unbuffered Ph-neutral lignen-free board. Do not substitute polypropylene or other plastic cases unless specifically requested by NYPL. 
+  * If the original boxes are causing damage the reels, or if the tape has been re-wound onto a larger reel, original boxes may be replaced with new 2-piece boxes should be constructed of either white paper-board or unbuffered Ph-neutral lignen-free board. Do not substitute polypropylene or other plastic cases unless specifically requested by NYPL.
 
   * All new reels and boxes will be labeled with the item identifier provided in the metadata spreadsheet.
 
-  * All original materials, including tapes, boxes, and reels will be returned to NYPL at the conclusion of the project. 
+  * All original materials, including tapes, boxes, and reels will be returned to NYPL at the conclusion of the project.
 
 <a name="section-c-project-documentation"></a>
 ## Section C: Project Documentation
@@ -355,12 +362,12 @@ Media have been organized into groups according to NYPL Preservation Master Spec
 <a name="statement-of-work-inventory"></a>
 ### Statement of Work Inventory
 
-  * Scope: object inventory, includes starter metadata, covered by statement of work and purchase order. 
+  * Scope: object inventory, includes starter metadata, covered by statement of work and purchase order.
   * Produced by: NYPL
   * Expected: prior to physical shipment. Ideally, a complete inventory is available to be shared with the statement of work or earlier to assist with planning. (A preliminary inventory may be shared for advanced planning.)
-  * Format: Excel spreadsheet 
+  * Format: Excel spreadsheet
   * Naming convention: (SOW_ID)_keyword_inventory_yyyymmdd.xls
-    * Example: 2017_001_jones1_inventory_20170101.xls 
+    * Example: 2017_001_jones1_inventory_20170101.xls
   * Data fields / required information:
     * Item-level information: unique IDs and starter metadata for physical source media
     * When items are stored and shipped in archival boxes, box ID and barcode will be included.
@@ -387,22 +394,22 @@ Media have been organized into groups according to NYPL Preservation Master Spec
       * Rehousing, and supplies
       * Special treatment
       * Hard drive shipping fees
-      * Hard drives storage 
+      * Hard drives storage
 
 <a name="original-media-shipping-document"></a>
 ### Original Media Shipping Document
 
-  * Scope: source media contained in a physical shipment. May include multiple statements of work / purchase orders, but each grouping will be described separately within the shipping document. 
+  * Scope: source media contained in a physical shipment. May include multiple statements of work / purchase orders, but each grouping will be described separately within the shipping document.
   * Produced by: sender
   * Expected: with shipment
-  * Format: Document / PDF 
+  * Format: Document / PDF
   * Naming convention: (SOW_ID)_keyword_shipment_yyyymmdd.pdf
     * Example: 2017_001_jones1_shipment_20170201.pdf
   * Data fields / required information:
     * Statement of Work ID
     * Purchase Order ID
     * Shipper Purchase Order ID
-    * Sender contact information 
+    * Sender contact information
     * Recipient contact information
     * Shipper contact information
     * Shipment date (and delivery date if not same day)
@@ -433,7 +440,7 @@ Media have been organized into groups according to NYPL Preservation Master Spec
   * Scope: assets contained on hard drive
   * Produced by: Contractor
   * Expected: with each hard drive shipped
-  * Format: Excel spreadsheet 
+  * Format: Excel spreadsheet
   * Naming convention: (SOW_ID)_(HD ID)_hdmanifest_yyyymmdd.xls
     * Example: 2017_001_jones1_hdmanifest_20171201.xls
   * Data fields / required information:
@@ -469,6 +476,6 @@ Media have been organized into groups according to NYPL Preservation Master Spec
     * Expected: with each hard drive shipped
     * Format: QCTools Report (gzipped XML) (https://www.bavc.org/preserve-media/preservation-tools)
     * Naming Convention: division_PrimaryID_v01_pm.mkv.qctools.xml.gz
-    * Instructions: 
+    * Instructions:
       * Each preservation master file should receive a corresponding QCTools report, which will be included in the PreservationMasters Bagged directory.
       * The reports on each hard drive should only reference the media contained on the hard drive.
