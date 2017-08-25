@@ -303,7 +303,24 @@ Media have been organized into groups according to NYPL Preservation Master Spec
 
 |Type | Formats |
 | --- | ----|
-| Video Cassette Analog | <ul><li>Betacam</li></ul><ul><li>Betacam SP</li></ul><ul><li>Hi8</li></ul><ul><li>MII</li></ul><ul><li>S-VHS</li></ul>
+| Video Cassette Analog | <li>Betacam</li><li>Betacam SP</li><li>Hi8</li><li>MII</li><li>S-VHS</li><li>S-VHS-C</li><li>U-matic</li><li>U-matic SP</li><li>VHS</li><li>VHS-C</li><li>Video8</li>
+| Video Cassette Digital | <li>D-1</li><li>D-2</li><li>D-3</li><li>D-5</li><li>Digital Betacam</li><li>HDCAM</li><li>HDCAM SR</li><li>Digital8</li><li>Betacam SX</li><li>MPEG IMX</li>
+| Video Reel Analog | <li>two-inch quad open-reel</li><li> one-inch open-reel, type A</li><li> one-inch open-reel, type C</li><li> one-inch open-reel, EV</li><li> one-inch open-reel, other/non-standard</li><li> half-inch open-reel, Sony CV</li><li> half-inch open-reel, EIAJ Standard</li><li> half-inch open-reel</li><li> half-inch open-reel, other/non-standard</li>
+
+<a name="video-group-2"></a>
+### Video Group 2
+
+|Type | Formats |
+| --- | ----|
+| Video Cassette DV | <li>DVCam</li><li>MiniDV</li><li>HDV</li><li>DVCPRO</li><li>DVCPRO 50</li><li>DVCPRO HD</li>
+
+<a name="video-group-3"></a>
+### Video Group 3
+
+|Type | Formats |
+| --- | ----|
+| Video Optical Disc | <li>DVD</li><li>DVD-R</li><li>DVD-RW</li><li>Blu-Ray</li><li>Laser Disc</li><li>VCD</li>
+
 
 <a name="rehousing"></a>
 ### Rehousing
