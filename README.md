@@ -453,7 +453,7 @@ Media have been organized into groups according to NYPL Preservation Master Spec
     * Purchase Order ID
     * Primary ID (NOT the root/reference filename)
   * INSTRUCTIONS: email to NYPL project coordinator immediately after check-in - only expected if items listed on the inventory were not received.
-  * [Template for "Did Not Receive" report](2020_000_example1_didnotreceive_yyyymmdd.xlsx)
+  * [Template for "Did Not Receive" report](templates/2020_000_example1_didnotreceive_yyyymmdd.xlsx)
 
 <a name="hard-drive-manifest"></a>
 ### Hard Drive Manifest
@@ -470,7 +470,7 @@ Media have been organized into groups according to NYPL Preservation Master Spec
     * Hard drive serial number / ID
     * File name
   * INSTRUCTIONS: the hard drive manifest should be stored in the root directory of the hard drive (do not combine hard drives)
-  * [Template for "HD Manifest"](2020_000_example1_DRIVEID_hdmanifest_yyyymmdd.xlsx)
+  * [Template for "HD Manifest"](templates/2020_000_example1_DRIVEID_hdmanifest_yyyymmdd.xlsx)
 
 <a name="did-not-capture-report"></a>
 ### Did Not Capture Report
@@ -488,7 +488,7 @@ Media have been organized into groups according to NYPL Preservation Master Spec
     * Capture issue (controlled vocabulary): [playback issue, duplicate, blank media, unsupported format, NYPL inspection required]
     * Capture problem note: [free text]
   * INSTRUCTIONS: Email this document to the NYPL project coordinator when the final hard drive has been shipped.
-  * [Template for "Did Not Capture" report](2020_000_example1_didnotcapture_yyyymmdd.xlsx)
+  * [Template for "Did Not Capture" report](templates/2020_000_example1_didnotcapture_yyyymmdd.xlsx)
 
 <a name="quality-control-reports"></a>
 ### Quality Control Reports
