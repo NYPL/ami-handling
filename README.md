@@ -372,7 +372,7 @@ Media have been organized into groups according to NYPL Preservation Master Spec
   * Produced by: NYPL
   * Expected: prior to physical shipment; a Purchase Order defined by the SOW is needed prior to the beginning of work.
   * Format: document / PDF
-  * Naming convention: (SOW_ID)_keyword_StatementOfWork_yyyymmdd.pdf
+  * Naming convention: ```(SOW_ID)_StatementOfWork_yyyymmdd.pdf```
     * Example: 2017_001_jones1_statementofwork_20170101.pdf
   * Data fields / required information:
     * Date, NYPL contact information, Contractor contact information, project keyword
@@ -387,7 +387,7 @@ Media have been organized into groups according to NYPL Preservation Master Spec
   * Produced by: NYPL
   * Expected: prior to physical shipment. Ideally, a complete inventory is available to be shared with the statement of work or earlier to assist with planning. (A preliminary inventory may be shared for advanced planning.)
   * Format: Excel spreadsheet
-  * Naming convention: (SOW_ID)_keyword_inventory_yyyymmdd.xls
+  * Naming convention: ```(SOW_ID)_inventory_yyyymmdd.xls```
     * Example: 2017_001_jones1_inventory_20170101.xls
   * Data fields / required information:
     * Item-level information: unique IDs and starter metadata for physical source media
@@ -400,7 +400,7 @@ Media have been organized into groups according to NYPL Preservation Master Spec
   * Produced by: Contractor
   * Expected: following receipt of SOW or work request
   * Format: PDF
-  * Naming convention: add SOW prefix to Contractor’s naming convention. (SOW_ID)_keyword_(ContractorName)_quote_yyyymmdd.pdf
+  * Naming convention: add SOW prefix to Contractor’s naming convention. ```(SOW_ID)_(ContractorName)_quote_yyyymmdd.pdf```
     * Example: 2017_001_jones1_vendorX_quote_20170115.pdf
   * Submit as PDF
   * Data fields / required information
@@ -424,7 +424,7 @@ Media have been organized into groups according to NYPL Preservation Master Spec
   * Produced by: sender
   * Expected: with shipment
   * Format: Document / PDF
-  * Naming convention: (SOW_ID)_keyword_shipment_yyyymmdd.pdf
+  * Naming convention: ```(SOW_ID)_shipment_yyyymmdd.pdf```
     * Example: 2017_001_jones1_shipment_20170201.pdf
   * Data fields / required information:
     * Statement of Work ID
@@ -443,11 +443,11 @@ Media have been organized into groups according to NYPL Preservation Master Spec
 <a name="did-not-receive-report"></a>
 ### Did Not Receive Report
 
-  * Scope: items listed in inventory are received as expected, covered by a single SOW and PO
-  * Produced by: contactor
+  * Scope: items listed in inventory that are not received as expected, covered by a single SOW and PO
+  * Produced by: contractor
   * Expected: immediately after item-level check-in by Contractor
   * Format: Excel spreadsheet
-  * File naming convention: (SOW_ID)_keyword_didnotreceive_yyyymmdd.xls
+  * File naming convention: ```(SOW_ID)_didnotreceive_yyyymmdd.xls```
     * Example: 2017_001_jones1_didnotreceive_20170301.xls
   * Data fields / required information
     * Statement of Work ID
@@ -456,6 +456,21 @@ Media have been organized into groups according to NYPL Preservation Master Spec
   * INSTRUCTIONS: email to NYPL project coordinator immediately after check-in - only expected if items listed on the inventory were not received.
   * [Template for "Did Not Receive" report](templates/2020_000_example1_didnotreceive_yyyymmdd.xlsx)
 
+<a name="extra-assets-report"></a>
+### Extra Assets Report
+  * Scope: physical items received that were not included in the metadata invntory provided by NYPL
+  * Produced by: contractor
+  * Expected: immediately after item-level check-in by contractor
+  * Format: Excel spreadsheet
+  File naming convention: ```(SOW_ID)_extraassets_yyyymmdd.xls```
+    * Example: 2017_001_jones1_extraassets_20170301.xls
+  * Data fields / required information
+    * Statement of Work ID
+    * Purchase Order ID
+    * Primary ID (NOT the root/reference filename)
+    * Archival Box Number (**important! Please list the box number in the same way that it is listed in the provided metadata, i.e. "MUS 123"**)
+  * INSTRUCTIONS: email to NYPL project coordinator immediately after check-in - only expected if items were received by the contractor that were not included on initial metadata inventory provided by NYPL.
+
 <a name="hard-drive-manifest"></a>
 ### Hard Drive Manifest
 
@@ -463,7 +478,7 @@ Media have been organized into groups according to NYPL Preservation Master Spec
   * Produced by: Contractor
   * Expected: with each hard drive shipped
   * Format: Excel spreadsheet
-  * Naming convention: (SOW_ID)_(HD ID)_hdmanifest_yyyymmdd.xls
+  * Naming convention: ```(SOW_ID)_(HD ID)_hdmanifest_yyyymmdd.xls```
     * Example: 2017_001_jones1_hdmanifest_20171201.xls
   * Data fields / required information:
     * Statement of Work ID
@@ -480,7 +495,7 @@ Media have been organized into groups according to NYPL Preservation Master Spec
   * Produced by: Contractor
   * Expected: at conclusion of project
   * Format: Excel spreadsheet
-  * File naming convention: (SOW_ID)_keyword_didnotcapture_yyyymmdd.xls
+  * File naming convention: ```(SOW_ID)_keyword_didnotcapture_yyyymmdd.xls```
     * Example: 2017_001_jones1_captureissues_20171201.xls
   * Data fields / required information
     * Primary ID (NOT the root file name)
