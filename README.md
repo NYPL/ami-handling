@@ -25,6 +25,7 @@
   - [Contractor Quote](#contractor-quote)
   - [Original Media Shipping Document](#original-media-shipping-document)
   - [Did Not Receive Report](#did-not-receive-report)
+  - [Extra Assets Report](#extra-assets-report)
   - [Hard Drive Manifest](#hard-drive-manifest)
   - [Did Not Capture Report](#did-not-capture-report)
   - [Quality Control Reports](#quality-control-reports)
