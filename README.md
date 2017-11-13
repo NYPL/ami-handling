@@ -162,6 +162,8 @@ The Contractor will provide preservation reformatting of audio and moving image 
   * The Contractor shall cover shipping fees that have been incurred due to failed quality control of a hard drive (failed hard drives returned to the Contractor, and corrected hard drives shipped to NYPL).
 
   * **Pilot File Delivery:** Before general production begins on a project, a shipment of "pilot" digital assets must be delivered as follows via FTP:
+
+    * Contractor must provide FTP login information via email to NYPL project managers at the onset of a given project.
     * 5 completed Bags each of audio and video assets (10 bags total maximum)
     * Pilot shipment via FTP must be packaged within a directory that is given an identification number, and the FTP transfer must be listed on the associated invoice by its identifying shipment ID (NYPL will identify this shipment using the name of the directory as given by the vendor on their FTP client)
     * Once pilot assets are retrieved via FTP they will be reviewed in a timely manner by NYPL. Approved assets will be kept by NYPL and treated as progress deliverables (as the first shipment of a given project).
