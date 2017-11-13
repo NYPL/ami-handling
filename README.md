@@ -25,6 +25,7 @@
   - [Contractor Quote](#contractor-quote)
   - [Original Media Shipping Document](#original-media-shipping-document)
   - [Did Not Receive Report](#did-not-receive-report)
+  - [Extra Assets Report](#extra-assets-report)
   - [Hard Drive Manifest](#hard-drive-manifest)
   - [Did Not Capture Report](#did-not-capture-report)
   - [Quality Control Reports](#quality-control-reports)
@@ -160,12 +161,13 @@ The Contractor will provide preservation reformatting of audio and moving image 
 
   * The Contractor shall cover shipping fees that have been incurred due to failed quality control of a hard drive (failed hard drives returned to the Contractor, and corrected hard drives shipped to NYPL).
 
-  * A pilot hard drive containing at least 10 fully completed bags should be delivered immediately, subject to a comprehensive review by NYPL, with feedback and resolution as needed.
-     * Pilot drives will not be considered deliverables. All digital objects provided on Pilot drives must be re-delivered on subsequent drives.
-     * NYPL will return the pilot drive following feedback, so that the pilot drive may be reused.
+  * **Pilot File Delivery:** Before general production begins on a project, a shipment of "pilot" digital assets must be delivered as follows via FTP:
+    * 5 completed Bags each of audio and video assets (10 bags total maximum)
+    * Pilot shipment via FTP must be packaged within a directory that is given an identification number, and the FTP transfer must be listed on the associated invoice by its identifying shipment ID (NYPL will identify this shipment using the name of the directory as given by the vendor on their FTP client)
+    * Once pilot assets are retrieved via FTP they will be reviewed in a timely manner by NYPL. Approved assets will be kept by NYPL and treated as progress deliverables (as the first shipment of a given project).
 
-  * Subsequent hard drives shall follow an agreed-upon schedule for delivery: ideally shipped as they are filled, or as soon as 3-5 are ready for a batch shipment.
-  	* NYPL wishes to avoid large influxes of hard drives, which may hamper the ability to perform quality control in a timely manner.
+  * **Progress Shipments:** Subsequent progress shipments must be delivered via external hard drive; Hard drives shall follow an agreed-upon schedule for delivery - ideally shipped as they are filled, or as soon as 3-5 are ready for a batch shipment.
+  	* NYPL wishes to avoid receiving shipments of more than 5 hard drives, which may hamper the ability to perform quality control in a timely manner.
 
 **Off-site work or subcontracts**
 
@@ -371,7 +373,7 @@ Media have been organized into groups according to NYPL Preservation Master Spec
   * Produced by: NYPL
   * Expected: prior to physical shipment; a Purchase Order defined by the SOW is needed prior to the beginning of work.
   * Format: document / PDF
-  * Naming convention: (SOW_ID)_keyword_StatementOfWork_yyyymmdd.pdf
+  * Naming convention: ```(SOW_ID)_StatementOfWork_yyyymmdd.pdf```
     * Example: 2017_001_jones1_statementofwork_20170101.pdf
   * Data fields / required information:
     * Date, NYPL contact information, Contractor contact information, project keyword
@@ -386,7 +388,7 @@ Media have been organized into groups according to NYPL Preservation Master Spec
   * Produced by: NYPL
   * Expected: prior to physical shipment. Ideally, a complete inventory is available to be shared with the statement of work or earlier to assist with planning. (A preliminary inventory may be shared for advanced planning.)
   * Format: Excel spreadsheet
-  * Naming convention: (SOW_ID)_keyword_inventory_yyyymmdd.xls
+  * Naming convention: ```(SOW_ID)_inventory_yyyymmdd.xls```
     * Example: 2017_001_jones1_inventory_20170101.xls
   * Data fields / required information:
     * Item-level information: unique IDs and starter metadata for physical source media
@@ -399,7 +401,7 @@ Media have been organized into groups according to NYPL Preservation Master Spec
   * Produced by: Contractor
   * Expected: following receipt of SOW or work request
   * Format: PDF
-  * Naming convention: add SOW prefix to Contractor’s naming convention. (SOW_ID)_keyword_(ContractorName)_quote_yyyymmdd.pdf
+  * Naming convention: add SOW prefix to Contractor’s naming convention. ```(SOW_ID)_(ContractorName)_quote_yyyymmdd.pdf```
     * Example: 2017_001_jones1_vendorX_quote_20170115.pdf
   * Submit as PDF
   * Data fields / required information
@@ -423,7 +425,7 @@ Media have been organized into groups according to NYPL Preservation Master Spec
   * Produced by: sender
   * Expected: with shipment
   * Format: Document / PDF
-  * Naming convention: (SOW_ID)_keyword_shipment_yyyymmdd.pdf
+  * Naming convention: ```(SOW_ID)_shipment_yyyymmdd.pdf```
     * Example: 2017_001_jones1_shipment_20170201.pdf
   * Data fields / required information:
     * Statement of Work ID
@@ -442,11 +444,11 @@ Media have been organized into groups according to NYPL Preservation Master Spec
 <a name="did-not-receive-report"></a>
 ### Did Not Receive Report
 
-  * Scope: items listed in inventory are received as expected, covered by a single SOW and PO
-  * Produced by: contactor
+  * Scope: items listed in inventory that are not received as expected, covered by a single SOW and PO
+  * Produced by: contractor
   * Expected: immediately after item-level check-in by Contractor
   * Format: Excel spreadsheet
-  * File naming convention: (SOW_ID)_keyword_didnotreceive_yyyymmdd.xls
+  * File naming convention: ```(SOW_ID)_didnotreceive_yyyymmdd.xls```
     * Example: 2017_001_jones1_didnotreceive_20170301.xls
   * Data fields / required information
     * Statement of Work ID
@@ -455,6 +457,21 @@ Media have been organized into groups according to NYPL Preservation Master Spec
   * INSTRUCTIONS: email to NYPL project coordinator immediately after check-in - only expected if items listed on the inventory were not received.
   * [Template for "Did Not Receive" report](templates/2020_000_example1_didnotreceive_yyyymmdd.xlsx)
 
+<a name="extra-assets-report"></a>
+### Extra Assets Report
+  * Scope: physical items received that were not included in the metadata invntory provided by NYPL
+  * Produced by: contractor
+  * Expected: immediately after item-level check-in by contractor
+  * Format: Excel spreadsheet
+  File naming convention: ```(SOW_ID)_extraassets_yyyymmdd.xls```
+    * Example: 2017_001_jones1_extraassets_20170301.xls
+  * Data fields / required information
+    * Statement of Work ID
+    * Purchase Order ID
+    * Primary ID (NOT the root/reference filename)
+    * Archival Box Number (**important! Please list the box number in the same way that it is listed in the provided metadata, i.e. "MUS 123"**)
+  * INSTRUCTIONS: email to NYPL project coordinator immediately after check-in - only expected if items were received by the contractor that were not included on initial metadata inventory provided by NYPL.
+
 <a name="hard-drive-manifest"></a>
 ### Hard Drive Manifest
 
@@ -462,7 +479,7 @@ Media have been organized into groups according to NYPL Preservation Master Spec
   * Produced by: Contractor
   * Expected: with each hard drive shipped
   * Format: Excel spreadsheet
-  * Naming convention: (SOW_ID)_(HD ID)_hdmanifest_yyyymmdd.xls
+  * Naming convention: ```(SOW_ID)_(HD ID)_hdmanifest_yyyymmdd.xls```
     * Example: 2017_001_jones1_hdmanifest_20171201.xls
   * Data fields / required information:
     * Statement of Work ID
@@ -479,7 +496,7 @@ Media have been organized into groups according to NYPL Preservation Master Spec
   * Produced by: Contractor
   * Expected: at conclusion of project
   * Format: Excel spreadsheet
-  * File naming convention: (SOW_ID)_keyword_didnotcapture_yyyymmdd.xls
+  * File naming convention: ```(SOW_ID)_keyword_didnotcapture_yyyymmdd.xls```
     * Example: 2017_001_jones1_captureissues_20171201.xls
   * Data fields / required information
     * Primary ID (NOT the root file name)
