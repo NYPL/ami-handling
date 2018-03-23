@@ -132,7 +132,7 @@ The Contractor will provide preservation reformatting of audio and moving image 
   
 <a name="hard-drive-specifications"></a>
 **Hard Drive Specifications**
-    *   **All external storage devices must meet NYPL digital preservation requirements (https://github.com/NYPL/digpres-policies)**
+  * All external storage devices must meet NYPL digital preservation requirements (https://github.com/NYPL/digpres-policies)
 
 **Shipment of physical media**
 
