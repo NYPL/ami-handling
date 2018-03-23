@@ -8,6 +8,7 @@
   - [Specifications](#specifications)
   - [Description of Materials](#description-of-materials)
   - [Description of Services](#description-of-services)
+  - [Hard Drive Specifications](#hard-drive-specifications)
   - [Project administration](#project-administration)
   - [Quality assurance and quality control](#quality-assurance-and-quality-control)
 - [Section B: Original Media](#section-b-original-media)
@@ -124,11 +125,13 @@ The Contractor will provide preservation reformatting of audio and moving image 
 
   * Digital assets must meet NYPL technical specifications (https://github.com/NYPL/ami-specifications)
 
-  * All external storage devices must meet NYPL digital preservation requirements (https://github.com/NYPL/digpres-policies)
-
 **Supplies**
 
+<a name="hard-drive-specifications"></a>
+#### Hard Drive Specifications
   * The Contractor is responsible for purchase of all supplies, including hard drives for delivery of the digital assets.
+    *   **All external storage devices must meet NYPL digital preservation requirements (https://github.com/NYPL/digpres-policies)**
+
 
   * If supplies fees have not been articulated in the MSA contract, they must be approved by NYPL.
 
