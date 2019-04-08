@@ -365,6 +365,28 @@ Media have been organized into groups according to NYPL Preservation Master Spec
 
   * All original materials, including tapes, boxes, and reels will be returned to NYPL at the conclusion of the project.
 
+**Audio grooved disc cleaning and rehousing**
+#### Grooved disc rehousing
+* All discs must be rehoused into acid-free and lignin-free buffered paper sleeves approved by NYPL.
+  * If the disc is glass based, a piece of red tack down tape should be affixed below the class mark that should wrap around the envelope, making it visible once it is returned to its storage shelf. If the disc is damaged in some way (i.e.: cracked, broken, chipped, etc.) a piece of blue tack down tape should be placed below the red one in the same fashion.
+* Barcodes must be duplicated and affixed to the upper-left hand corner of the new sleeve.
+* Any IDs should be copied from the old sleeve to the new one in the upper right hand corner
+* All original materials (including old sleeves) must be returned to NYPL at the conclusion of the project.
+
+#### Grooved disc cleaning
+Discs must be cleaned according to procedures appropriate for their base type, detailed below.  
+
+##### Cleaning and rehousing of shellac, shellac-vinyl compound, and vinyl discs
+* Cleaning and drying must be carried out with equipment suitable for archival discs.
+* Clean each disc with a solution of distilled water and Photoflo 200 or 600, The Disc Doctor’s “Miracle Cleaner”, or comparable solution.
+
+##### Cleaning and rehousing details for glass and aluminum based discs 
+* Discs that appear to be relatively clean and in good condition may be cleaned using a standard archival disc-cleaning machine.
+* Glass and Aluminum based discs which exhibit “Palmitic Acid Syndrome” must be hand-cleaned.
+  * Aluminum discs: Oxidation may be gently wiped with mineral or castor oil and a lint-free cloth, prior to gentle hand-washing
+  * Glass discs: Oxidation may be cleaned with a solution of non-scented detergent and PhotoFlo (or comparable product approved by NYPL)
+  * Hand-wash with a solution of non-scented liquid soap and PhotoFlo; rinse with lukewarm water; repeat as needed on both sides; vacuum and dry discs as normal.
+
 <a name="section-c-project-documentation"></a>
 ## Section C: Project Documentation
 
