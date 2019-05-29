@@ -539,9 +539,8 @@ If the object has audio content (i.e. composite sound print), audio must be sync
 
 **_Preservation master file specifications: Film groups 1 & 2: Motion picture film, silent / sound_**
 
-| Attribute | Specification |
-| ---- | ---- | ---- | ---- |
 | Source format | 35mm | 16mm | 8mm / Super 8mm / Double 8mm |
+| ---- | ---- | ---- | ---- | 
 | Video bit depth | 16 bit | 10 bit |
 | Resolution | 4K optical side overscan | 2K optical side overscan |
 | Video codec | FFv1 version 3 from DPX |
