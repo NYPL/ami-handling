@@ -509,12 +509,12 @@ Discs must be cleaned according to procedures appropriate for their type, detail
       * Hand-wash with a solution of non-scented liquid soap and PhotoFlo or similar product; rinse with lukewarm water; repeat as needed on both sides; vacuum and dry discs as normal.
 
 #### Cylinder cleaning
-        * No wet cleaning of cylinders. Only soft brushes are to be used for cleaning.
+  * No wet cleaning of cylinders. Only soft brushes are to be used for cleaning.
 
 #### Cylinder rehousing
-        * All cylinders should be rehoused into buffered board boxes approved by NYPL. The recommended product is the Wax Cylinder Storage Boxes designed under the guidance of the Northeast Document Conservation Center from University Products (#612-0364 for 4” cylinders, #612-0366 for 6” cylinders).
-        * All associated original packaging, papers and ephemera should be included in the separate compartment in each box.
-        * Consult IASA-TC 04, 2nd edition, Chapter 5 for best practices regarding cylinder handling, playback, and rehousing.
+  * All cylinders should be rehoused into buffered board boxes approved by NYPL. The recommended product is the Wax Cylinder Storage Boxes designed under the guidance of the Northeast Document Conservation Center from University Products (#612-0364 for 4” cylinders, #612-0366 for 6” cylinders).
+  * All associated original packaging, papers and ephemera should be included in the separate compartment in each box.
+  * Consult IASA-TC 04, 2nd edition, Chapter 5 for best practices regarding cylinder handling, playback, and rehousing.
 
 <a name="specifications-for-digital-assets"></a>
 ## Specifications For Digital assets
@@ -525,7 +525,7 @@ The following sections are broken into format groups to define the file delivera
 
 ### FILM MEDIA
 #### Film Groups 1 and 2: Motion Picture Film, Silent / Sound
-####_Deliverables_
+**_Deliverables_**
 For each original recording, the following shall be produced:
   * One preservation master file*
   * One mezzanine file*
@@ -534,10 +534,10 @@ For each original recording, the following shall be produced:
 
 If the object has audio content (i.e. composite sound print), audio must be synchronized and embedded in all final deliverables.
 
-####_Capture tools_**
+**_Capture tools_**
   * Film must be digitized and captured as DPX, then transcoded with any synchronous Broadcast Wave files to FFV1/FLAC/Matroska using RAWcooked (https://mediaarea.net/RAWcooked)
 
-####_Preservation master file specifications: Film groups 1 & 2: Motion picture film, silent / sound_
+**_Preservation master file specifications: Film groups 1 & 2: Motion picture film, silent / sound_**
 
 | Attribute | Specification |
 | --- | ------ |
