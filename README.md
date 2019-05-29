@@ -489,12 +489,12 @@ Slotless hubs are preferred, dependent on funds approval by NYPL. If slotless hu
 
 ### Treatment and rehousing: Grooved Disc
 #### Grooved Disc identification and rehousing
-    * Glass discs have a piece of red tape wrapped around the edge.
-      * **Blue tape below the red tape indicates  that the disc is either cracked, chipped, or broken, and should be handled with the utmost of care.**
-      * All discs must be rehoused into acid-free and lignin-free buffered paper sleeves approved by NYPL.
-      * Barcodes must be duplicated and affixed to the upper-left hand corner of the new sleeve.
-      * Any IDs should be copied from the old sleeve to the new one in the upper right hand corner
-      * All original materials (including old sleeves) must be returned to NYPL at the conclusion of the project.
+  * Glass discs have a piece of red tape wrapped around the edge.
+    * **Blue tape below the red tape indicates  that the disc is either cracked, chipped, or broken, and should be handled with the utmost of care.**
+    * All discs must be rehoused into acid-free and lignin-free buffered paper sleeves approved by NYPL.
+    * Barcodes must be duplicated and affixed to the upper-left hand corner of the new sleeve.
+    * Any IDs should be copied from the old sleeve to the new one in the upper right hand corner
+    * All original materials (including old sleeves) must be returned to NYPL at the conclusion of the project.
 
 ### Grooved Disc cleaning
 Discs must be cleaned according to procedures appropriate for their type, detailed below.  
