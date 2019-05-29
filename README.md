@@ -443,7 +443,7 @@ Project Files
       * Films in shipping containers and on shipping reels may be stored vertically until rehoused to archival cans and cores to prevent damage prior to rehousing.
       * Films should not be transported via sprockets through any equipment unless for syncing purposes through synchronizers. This should apply to all phases of film work, including winding, inspection, cleaning, scanning. Record footage count through scanning as opposed to synchronizer.
 
-###Film cleaning**
+### Film cleaning
       * Prior to digitization, if condition of the film allows for cleaning, films shall be cleaned with a solvent approved by NYPL, preferably Perchloroethylene.
       * Precaution must be used when cleaning films with magnetic sound. Magnetic film cleaning chemicals must be discussed with with NYPL.
       * Cleaning solvents must not remove NYPL unique identifiers; otherwise, a method for reapplying identifiers to film leader must be proposed by the vendor.
