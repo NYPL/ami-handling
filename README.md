@@ -98,8 +98,8 @@ All tasks must comply with NYPL specifications, which are maintained in publical
 
   |Group | Type | Formats |
   | --- | --- | ---- |
-  | Audio Group 1 (Analog Magnetic) | Audio Reels Analog | <ul><li>Half-inch open-reel audio</li><li>One-inch open-reel audio</li></ul><ul><li>Quarter-inch open-reel audio</li><li>Two-inch open-reel audio</li></ul>
-  | Audio Cassettes Analog | <ul><li>8-track</li><li>Compact Cassette</li><li>Microcassette</li><li>Minicassette</li><li>Fidelipac Cartridge</li><li>RCA Tape Cartridge</li><li>NAB Cartridge</li><li>Elcaset (L-Cassette)</li>
+  | Audio Group 1 (Analog Magnetic) | Audio Reels Analog | <ul><li>Half-inch open-reel audio</li><li>One-inch open-reel audio</li><li>Quarter-inch open-reel audio</li><li>Two-inch open-reel audio</li></ul>
+  | Audio Group 1 (Analog Magnetic) | Audio Cassettes Analog | <ul><li>8-track</li><li>Compact Cassette</li><li>Microcassette</li><li>Minicassette</li><li>Fidelipac Cartridge</li><li>RCA Tape Cartridge</li><li>NAB Cartridge</li><li>Elcaset (L-Cassette)</li>
   | Audio Wire | <ul><li>Magnetic Wire (Webster Chicago)</li>
 
 
