@@ -812,7 +812,6 @@ BEXT metadata must be embedded in each audio file upon capturing to WAV. See Met
 
 **_Preservation master file specifications: audio group 1: analog magnetic_**
 
-  | **Preservation master file specification: audio group 1** |
   | Attribute | Specification |
   | ---- | ----- |
   |Audio data encoding | Free Lossless Audio Codec (FLAC) |
@@ -823,7 +822,6 @@ BEXT metadata must be embedded in each audio file upon capturing to WAV. See Met
 
 **_Preservation master file specifications: audio group 2: digital magnetic_**
 
-  | **Preservation master file specification: audio group 2** |
   | Attribute | Specification |
   | ---- | ----- |
   | Audio codec | Free Lossless Audio Codec |
