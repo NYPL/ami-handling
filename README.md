@@ -17,7 +17,6 @@
 - [Specifications for Digital Assets](#specifications-for-digital-assets)
 
 
-  - [Video Group 1](#video-group-1)
 <!-- /MarkdownTOC -->
 
 <a name="introduction"></a>
