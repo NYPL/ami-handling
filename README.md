@@ -224,7 +224,6 @@ Image files should follow the same pattern as the media files, and be placed in 
 | File format & extension | JPEG (.jpg) |
 | Resolution | Minimum 400 true DPI, without interpolation }
 | Surfaces| All enclosures: Front, back, top, bottom, left side, right side (if applicable)
-Magnetic and optical media: Front, (any side with annotations)
 | Notes | Images with text or content to which ‘orientation’ applies should be oriented correctly (i.e. for the language in which any text is written); If sides, top, or bottom do not have content, do not capture. If media object itself has extensive labeling, please include media alongside enclosure in applicable photographs (i.e. side of tape with side of case in the same shot). |
 
 <a name="digital-asset-and-hard-drive-structure"></a>
@@ -260,7 +259,7 @@ Package digital assets using the BagIt specification (V0.97) (https://tools.ietf
       * PreservationMasters
       * Images
 
-    * Files
+      * Files
       * For each preservation master file in the PreservationMasters directory, corresponding derivative file/s must exist.
       * Each audio, film, video media, or data file in the Bag must have a corresponding JSON metadata file (image files do not require metadata).
     * Example structure:
@@ -303,7 +302,7 @@ Package digital assets using the BagIt specification (V0.97) (https://tools.ietf
         * The file representing the second take of the second part of the third stream of the second region of the second face of an object marked as volume 1 is named as myd_259382_v01f02r02s03p02t02_pm.wav.
 
 | **Component** | **Use** | **Note** |
-| --- | ------ | --- |
+| ---- | ----- | ---- |
 | Volume: v## | <ul><li>A Volume is one video or audio object in a set of objects, when that set has been assigned a single primary identifier (i.e. NYPL Primary ID)</li> | Audio and video |
 | Face: f## | <ul><li>A Face is a stream or track, or a group of streams or tracks which play synchronously, within an audio object. Every audio object has at least one Face.
 </li><li>Some optical video formats are double-sided (rare)</li> | Audio and video |
