@@ -17,43 +17,7 @@
 - [Specifications for Digital Assets](#specifications-for-digital-assets)
 
 
-
-  - [Original Media List](#original-media-list)
-  - [Audio Group 1](#audio-group-1)
-  - [Audio Group 2](#audio-group-2)
-  - [Audio Group 3](#audio-group-3)
   - [Video Group 1](#video-group-1)
-  - [Video Group 2](#video-group-2)
-  - [Video Group 3](#video-group-3)
-  - [Rehousing](#rehousing)
-
-  - [Master Service Agreement \(MSA\)](#master-service-agreement-msa)
-  - [Specifications](#specifications)
-  - [Description of Materials](#description-of-materials)
-  - [Description of Services](#description-of-services)
-  - [Hard Drive Specifications](#hard-drive-specifications)
-  - [Project administration](#project-administration)
-  - [Quality assurance and quality control](#quality-assurance-and-quality-control)
-- [Section B: Original Media](#section-b-original-media)
-  - [Original Media List](#original-media-list)
-  - [Audio Group 1](#audio-group-1)
-  - [Audio Group 2](#audio-group-2)
-  - [Audio Group 3](#audio-group-3)
-  - [Video Group 1](#video-group-1)
-  - [Video Group 2](#video-group-2)
-  - [Video Group 3](#video-group-3)
-  - [Rehousing](#rehousing)
-- [Section C: Project Documentation](#section-c-project-documentation)
-  - [Statement of Work \(SOW\)](#statement-of-work-sow)
-  - [Statement of Work Inventory](#statement-of-work-inventory)
-  - [Contractor Quote](#contractor-quote)
-  - [Original Media Shipping Document](#original-media-shipping-document)
-  - [Did Not Receive Report](#did-not-receive-report)
-  - [Extra Assets Report](#extra-assets-report)
-  - [Hard Drive Manifest](#hard-drive-manifest)
-  - [Did Not Capture Report](#did-not-capture-report)
-  - [Quality Control Reports](#quality-control-reports)
-
 <!-- /MarkdownTOC -->
 
 <a name="introduction"></a>
@@ -69,13 +33,13 @@ All tasks must comply with NYPL specifications, which are maintained in publical
 <a name="documentation"></a>
 ## Documentation
 
-* Statement of Work (SOW)
+**Statement of Work (SOW)**
   * Produced by: NYPL
   * Scope: description of body of work covered by a discrete budget, schedule, and quantity of materials.
-* Metadata inventory
+**Metadata inventory**
   * Produced by: NYPL
   * Scope: object inventory with starter metadata, covered by statement of work and purchase order.
-* Vendor quote
+**Vendor quote**
   * Produced by: Vendor
   * Scope: Scope as described by a single Statement of Work (SOW)
   * Expected: following receipt of SOW or work request
@@ -88,25 +52,25 @@ All tasks must comply with NYPL specifications, which are maintained in publical
       * Special treatment
       * Hard drive shipping fees
       * Hard drives storage
-* Original Media Shipping Document
+**Original Media Shipping Document**
   * Produced by: Sender
   * Scope: Box-level inventory of physical media objects in shipment.
   * Format: PDF
   * Instructions: Sender, shipper, and recipient should sign and date the document. Completed document will be scanned to PDF and copied to NYPL and Vendor project coordinators.
-* Discrepancy report
+**Discrepancy report**
   * Produced by: Vendor
   * Scope: list of objects for which there are discrepancies between inventory and actual objects:
       * a) there are objects listed in inventory that were not received by vendor as expected; or
       * b) there are objects received by the vendor that were not listed in the inventory and/or for which accurate metadata was not yet provided by NYPL.
   * Template for Discrepancy Report: (https://github.com/NYPL/ami-handling/blob/master/templates/2020_000_discrepancies_yyyymmdd.xlsx )
-* Hard Drive Manifest
+**Hard Drive Manifest**
   * Produced by: Vendor
   * Scope: assets contained on hard drive
   * Expected: with each hard drive shipped
   * Instructions: the hard drive manifest should be stored in the root directory of the hard drive (do not combine hard drives)
   * Template for "HD Manifest": (https://github.com/NYPL/ami-handling/blob/master/templates/2020_000_example1_DRIVEID_hdmanifest_yyyymmdd.xlsx
 )
-* Did Not Capture Report
+**Did Not Capture Report**
   * Produced by: Vendor
   * Scope: list of physical objects that were unable to be fully transferred
   * Expected: via email at conclusion of project
@@ -115,13 +79,8 @@ All tasks must comply with NYPL specifications, which are maintained in publical
 <a name="media-formats"></a>
 ## Media Formats
 
-  <a name="media-formats-list"></a>
-  ### Media Formats List
-
   The formats covered by this agreement are described in the following charts. Additional formats may be identified as inventory work continues.
 
-  <a name="film"></a>
-  ### Film
 
   |Group| Type | Formats |
   | --- | --- | ---- |
@@ -130,8 +89,6 @@ All tasks must comply with NYPL specifications, which are maintained in publical
   | Film Group 3 | Audio Film | <ul><li>16mm full-coat magnetic audio</li><li>16mm optical track</li><li>35mm full-coat magnetic audio</li><li>35mm optical track</li></ul></li>
   | Film Group 4 | Filmstrip | <ul><li>16mm filmstrip</li><li>35mm filmstrip</li></ul></li>
 
-  <a name="video"></a>
-  ### Video
 
   |Group| Type | Formats |
   | --- | --- | ---- |
@@ -139,8 +96,6 @@ All tasks must comply with NYPL specifications, which are maintained in publical
   | Video Group 2 | Video Cassette DV | <ul><li>Digital8</li><li>DVCam</li><li>MiniDV</li><li>HDV</li><li>DVCPRO</li><li>DVCPRO 50</li><li>DVCPRO HD</li></ul></li>
   | Video Group 3 | Video Optical Disc | <ul><li>DVD, pressed</li><li>DVD±R</li><li>DVD±RW</li><li>Blu-Ray</li><li>Laser Disc</li><li>VCD</li></ul></li>
 
-  <a name="audio-group-1-(Analog-Magnetic)"></a>
-  ### Audio Group 1 (Analog Magnetic)
 
   |Group | Type | Formats |
   | --- | --- | ---- |
@@ -148,8 +103,6 @@ All tasks must comply with NYPL specifications, which are maintained in publical
   | Audio Cassettes Analog | <ul><li>8-track</li><li>Compact Cassette</li><li>Microcassette</li><li>Minicassette</li><li>Fidelipac Cartridge</li><li>RCA Tape Cartridge</li><li>NAB Cartridge</li><li>Elcaset (L-Cassette)</li>
   | Audio Wire | <ul><li>Magnetic Wire (Webster Chicago)</li>
 
-  <a name="audio-group-2-(Digital-Magnetic)"></a>
-  ### Audio Group 2 (Digital Magnetic)
 
   |Group | Type | Formats |
   | --- | --- | ---- |
@@ -159,8 +112,6 @@ All tasks must comply with NYPL specifications, which are maintained in publical
   | Audio Group 4 | Audio Grooved Disc | <ul><li>Aluminum-based lacquer coated discs</li><li>Glass-based lacquer coated discs</li><li>Paper-based lacquer coated discs</li><li>Microgroove discs (LP, Vinyl)</li><li>Replicated coarse groove disc (Shellac)</li><li>Gray Audograph discs</li><li>Edison Diamond Disc</li><li>Edison Voicewriter/li><li>Flexible disc/li><li>Gelatin disc/li><li>Metal disc/li><li>Metal master disc/li><ul>
   | Audio Group 5 | Audio Grooved Cylinder | <ul><li>Brown wax</li><li>Molded and Black Amberol</li><li>Blue Amberol / US Everlasting Indestructible</li><li>Dictabelt</li><ul>
 
-  <a name="data"></a>
-  ### Data
 
   |Group | Type | Formats |
   | --- | --- | ---- |
@@ -171,9 +122,6 @@ All tasks must comply with NYPL specifications, which are maintained in publical
 ## Digital Asset Deliverables
 
 “Digital asset” is defined as a group of files resulting from digitization, and describes a single NYPL collection object with a single unique identifier. All digital assets must meet the provided specifications and packaging requirements. Specifications may be modified over time to reflect changes in best practices or NYPL’s digital infrastructure, or to accommodate unexpected media formats, configurations, or conditions. The following chart provides an overview of what files are expected within digital assets produced for each media type:
-
-<a name="digital-assets"></a>
-### Digital Assets
 
 |Files| Film | Video | Audio | Data |
 | ------ | --- | --- | --- | --- |
@@ -189,10 +137,10 @@ All tasks must comply with NYPL specifications, which are maintained in publical
 <a name="metadata"></a>
 ## Metadata
 
-**NYPL Metadata inventory**
+### NYPL Metadata inventory
 NYPL will provide the vendor with a Microsoft Excel spreadsheet containing identifying and descriptive information about each NYPL collection object included in the PO.  Note that one collection object with a single unique primary id may contain multiple physical objects (for example: a double compact cassette case).
 
-**NYPL JSON schema**
+### NYPL JSON schema
 NYPL metadata deliverables must adhere to customized fields and controlled vocabulary defined within NYPL’s JSON Schema. The schema, sample files, and validation instructions are hosted on GitHub: (https://github.com/NYPL/ami-metadata)
   * Metadata must be packaged as a single JSON file for each audio, video, or film media file (Images do not require JSON metadata).
   * Metadata must validate against JSON schema. Any invalid files or errors will be corrected by the vendor and require redelivery of an entire Bagged digital asset.
@@ -204,7 +152,7 @@ The vendor will be responsible for the following:
   * maintaining a system that is able to easily sync with and incorporate updates from NYPL’s live GitHub repository, ami-metadata, and
 * generating metadata about the source object, preservation master and derivative files, treatment and digitization processes, and the transfer operator.
 
-**Metadata content**
+### Metadata content
 
   * The required contents of the metadata files are defined by the JSON metadata schema. According to that schema, metadata will be produced for each deliverable that includes the following designated categories:
     * Bibliographic (provided by NYPL)
@@ -216,7 +164,7 @@ The vendor will be responsible for the following:
 * If there is a question about a field, if the provided vocabulary does not accurately describe an object or process, or if a list of terms is insufficient, contact NYPL for guidance on how to proceed. NYPL may approve and release new terms on the schema depending on priority.
 * Metadata fields must not be empty. Refer to the schema or contact NYPL for allowances of “unknown” as a value.
 
-**Metadata notes fields**
+### Metadata notes fields
 
 The metadata schema includes a number of ‘notes’ fields which must be used as described below:
   * bibliographic.accessNotes: NYPL added. No additional input required
@@ -226,17 +174,15 @@ The metadata schema includes a number of ‘notes’ fields which must be used a
   * source.notes.physicalConditionPreShipNotes: NYPL added. No additional input required
   * digitizationProcess.notes.processNotes: rehousing, adding leader, baking, cleaning
 
-**Metadata errors**
+### Metadata errors
 
   * If the technical characteristics or format of an object have provided by NYPL are incorrect (i.e. metadata inventory describes the format as “video cassette analog” and it is actually “audio cassette digital” with a format of “Umatic/PCM”), please
   * provide corrected metadata. Make any changes to source object metadata elements that would be appropriate, and note the correction in the "digitization.notes.processNotes". Example text:
     * "NYPL-provided metadata incorrectly listed [insert field name here] as [insert wrong content here]; JSON reflects correct [field name]"
 
-**BEXT Metadata**
+### BEXT Metadata
 The following BEXT metadata must be captured in the original Broadcast Wave files to ensure retention in the final FLAC deliverable.
 
-<a name="bext-metadata"></a>
-### BEXT metadata
 
 | Embedded BEXT metadata for audio formats |
 | BEXT field | Explanation | Sample data |
@@ -254,7 +200,7 @@ The following BEXT metadata must be captured in the original Broadcast Wave file
 
 All magnetic and optical media and enclosures must be photographed in order to capture significant bibliographic annotations or other content. Film will not be photographed.
 
-**Image file naming convention**
+### Image file naming convention
 Image files should follow the same pattern as the media files, and be placed in the Images directory, at the same hierarchical level as the PreservationMasters and EditMasters directory: division_PrimaryID_v#f#  (front/back/top/bottom/left/right/etc).jpg
 
   * PrimaryID
@@ -269,7 +215,7 @@ Image files should follow the same pattern as the media files, and be placed in 
         * division_PrimaryID_v01_side1.jpg
         * division_PrimaryID_v01_side2.jpg
 
-**_Image Specifications for photographs of media objects:_**
+### _Image Specifications for photographs of media objects:_
 
 <a name="image-specifications-for-photographs-of-media-objects"></a>
 ### Image Specifications for photographs of media objects
@@ -290,7 +236,7 @@ Grooved cylinders: top, front (side/upright view), any annotations |
 <a name="digital-asset-and-hard-drive-structure"></a>
 ## Digital Asset and Hard Drive Structure
 
-**Hard drive structure**
+### Hard drive structure
 Sort digital assets according to source object media types. Each hard drive must contain a directory at the root level that specifies the media type. Each media type directory must only contain completed digital assets (Bags). If a media type directory is present, it must contain digital assets (empty directories are not acceptable). Name root directories using the following terms where applicable:
   * Audio
   * Video
@@ -299,7 +245,7 @@ Sort digital assets according to source object media types. Each hard drive must
 
 No hidden files may be stored on the drive or within the subdirectories or Bags (including .DS_Store, Trash or Recycling Bin, thumbs.db), and these files must not be listed in any manifests.
 
-**Digital asset packaging**
+### Digital asset packaging
 Package digital assets using the BagIt specification (V0.97) (https://tools.ietf.org/html/rfc8493).
   * Bag Requirements
     * The Bag payload must contain the digital assets organized within a directory structure described by NYPL.
@@ -349,7 +295,7 @@ Package digital assets using the BagIt specification (V0.97) (https://tools.ietf
                 * manifest-md5.txt
                 * tagmanifest-md5.txt
 
-    **File naming convention**
+### File naming convention
 
     NYPL will provide the vendor with a filename “root” for each collection object, consisting of a three-letter prefix, the primary ID, a volume number (and a face number for audio objects), and a two-letter suffix indicating the role of the file.  These sections are each separated by an underscore: (prefix)_ primary ID)_ (components) _ (file role).ext
 
@@ -358,7 +304,7 @@ Package digital assets using the BagIt specification (V0.97) (https://tools.ietf
 
     It is the vendor’s responsibility to complete  the filename to accommodate multiple volumes, faces, regions, etc. where applicable, as defined by the filename components listed below.
 
-    **Filename components**
+### Filename components
       * A file name must use the following components to represent the portion of a physical media object represented by the file (see “component” chart). Example:
         * The file representing the second take of the second part of the third stream of the second region of the second face of an object marked as volume 1 is named as myd_259382_v01f02r02s03p02t02_pm.wav.
 
@@ -374,30 +320,30 @@ Package digital assets using the BagIt specification (V0.97) (https://tools.ietf
 /li><li>Streams are one-channel or interleaved two-channel audio streams which comprise a multi-channel or multi-track audio object.</li> | Audio only |
 | Part: p## | <ul><li>The part element is used when digitization of a single face of an audio or video object requires interruption because the size of the resulting file would exceed technical limits if captured all at once.</li><li>The part element may also be used when a single tape contains sections of content that are each given different unique identifiers (rare; each section would be a distinct Part).</li> | Audio and video |
 
-**File role**
+### File role
 A media file name must record its intended role using one of the following suffix codes:
   * pm: Preservation Master, created for every physical media object
   * mz: Mezzanine, created for every motion picture film (film groups 1 and 2)
   * em: Edit Master, created for audio files
   * sc: Service Copy, created for video files
-  * *image files do not require a role suffix*
+  * image files do not require a role suffix
 
 <a name="digital_asset_delivery"></a>
 ### Digital Asset Delivery
 
-**Delivery method**
+### Delivery method
   * New hard drive(s)  must adhere to the following specifications outlined by NYPL digital preservation requirements: (https://github.com/NYPL/digpres-policies) mustbe used.
   * In addition to the naming requirements listed on the linked hard drive specifications, the hard drive ID and volume name must be exactly 10-characters in length (i.e. NYPL000001 or NYPL_12345).
   * Alternate delivery methods may be explored during term of the agreement.
 
-**Delivery schedule**
+### Delivery schedule
   * Each volume delivered (either FTP directory or external hard drive) must only contain assets for a single purchase order.
   * Shipment of progress hard drives at regular intervals throughout the Purchase Order timeline is required. An agreed-upon schedule must facilitate ongoing NYPL quality control invoice approval by NYPL staff (rather than a single or small number of large-volume deliveries).
     * Delays in delivery of digital assets will result in extension of allotted NYPL quality control and invoice approval time.
     * Example schedule: 4 hard drives in a single shipment, every 4 weeks.
   * NYPL must approve the method of shipment for the hard drives.
 
-  **Pilot delivery**
+### Pilot delivery
     * Before general production begins on a project, a shipment of "pilot" digital assets must be delivered as follows via FTP:
     * FTP login information must be provided via email to NYPL project managers at the onset of a given project.
     * 5 completed Bags each of audio, video, and film assets (15 bags total maximum)
@@ -414,7 +360,7 @@ A reformatting signal path must be established through the selection, installati
 
 If any physical problems are detected, either during inspection or playback, contact NYPL with a proposed treatment plan before proceeding.  
 
-**Capture Issues**
+### Capture Issues
 NYPL recognizes that some media may pose challenges to capture or may not be able to be captured due to extremely poor condition or other circumstances.
     * If media exhibit audiovisual artifacts inherent to their source formats or conditions that impact the quality of transfer, but do not prevent a full capture, such artifacts must be described in the metadata signal notes.
     * If an object is not captured, the object must be listed in the required ‘did not capture’ (DNC) report, described in the documentation section of this RFP:
@@ -428,7 +374,7 @@ NYPL recognizes that some media may pose challenges to capture or may not be abl
           * unopened commercial media
       * **Capture Issue Notes**: Notes must be added to provide supplemental information about the category issue selected. For example, if the category is “unsupported AMI format”, the notes must describe the format that is not supported and why; if the category is “condition issue”, the notes must indicate what treatments were attempted and failed to facilitate capture.
 
-**Vendor Quality Assurance and Control**
+### Vendor Quality Assurance and Control
 Quality control must be performed for all digital assets, prior to delivery, including preservation masters, derivatives, and metadata. The quality control must include, at minimum:
   1. a confirmation that all required files are present and are named correctly;
   2. confirmation of conformance to media file technical specifications;
@@ -438,7 +384,7 @@ Quality control must be performed for all digital assets, prior to delivery, inc
   6. a playback inspection of each file covering the beginning, middle, and end of the file; and
   7. confirmation that the delivery hard drive and subdirectories are formatted and structured according to NYPL specifications.
 
-**NYPL Quality Control**
+### NYPL Quality Control
 
 Routine process
   * A quality control process, similar to what is prescribed for the vendor, will be conducted by NYPL within 30 days of receiving each hard drive.
@@ -453,13 +399,13 @@ Rework following QC failures
 <a name="environment-and-security"></a>
 ## Environment and security
 
-**Physical environment**
+### Physical environment
 Physical assets must be stored in an environment that is free of food, water, pests, contaminants, sunlight, and strong magnetic fields. Temperature in the storage area must be between 45-65ºF, with a relative humidity of 30-50%.
 
-**Physical security**
+### Physical security
 Physical assets are considered NYPL special collections. The vendor’s staff and site security methods, described in an AAM General Facilities Report, must meet NYPL approval.
 
-**Digital security**
+### Digital security
 
 General security and restrictions
   * Digital assets are considered NYPL special collections and may not be used without express NYPL approval.
@@ -473,11 +419,11 @@ Project Files
 <a name="shipment-of-physical-media"></a>
 ## Shipment of Physical Media
 
-**General logistics**
+### General logistics
   * NYPL shall approve all vehicles and plans for shipping.
   * Shipment of original physical media both to and from the vendor shall typically be arranged by NYPL, using a shipper selected by NYPL.
 
-**Project assets**
+### Project assets
   * Return of the original media shall occur following successful quality control of the final digital assets covered by purchase order.
   * It is the vendors responsibility to return the physical media to NYPL per the set schedule in total. If the vendor omits physical media from the scheduled shipment, the vendor shall be responsible for return shipping to NYPL, using a shipping company and method approved by NYPL in writing.
   * Each shipment must have a packing list that lists the barcode and Box ID of each box included in the shipment. This packing list may be delivered electronically in the format of a searchable PDF document.
@@ -485,7 +431,7 @@ Project Files
 <a name="treatment,-handling,-and-rehousing-of-physical-media"></a>
 ## Treatment, Handling, and Rehousing of Physical Media
 
-**General guidelines**
+### General guidelines
   * Any treatment action must not result in loss of content.
   * All costs for supplies and rehousing labor should be included with the cost proposal, as described in the Vendor’s fee schedule.
   * Replace original housings in these cases:
@@ -502,23 +448,23 @@ Project Files
       * Overflow container must be clearly labelled with the original objects’ Box ID (example: “MUS 1569”).
       * Original housings must be clearly associated with the rehoused materials.
 
-**Treatment and rehousing: Film media**
-  * **Film handling**
+### Treatment and rehousing: Film media
+#### Film handling
       * Films on cores and in archival cans must be stored flat, horizontally.
       * Films in shipping containers and on shipping reels may be stored vertically until rehoused to archival cans and cores to prevent damage prior to rehousing.
       * Films should not be transported via sprockets through any equipment unless for syncing purposes through synchronizers. This should apply to all phases of film work, including winding, inspection, cleaning, scanning. Record footage count through scanning as opposed to synchronizer.
 
-**Film cleaning**
+###Film cleaning**
       * Prior to digitization, if condition of the film allows for cleaning, films shall be cleaned with a solvent approved by NYPL, preferably Perchloroethylene.
       * Precaution must be used when cleaning films with magnetic sound. Magnetic film cleaning chemicals must be discussed with with NYPL.
       * Cleaning solvents must not remove NYPL unique identifiers; otherwise, a method for reapplying identifiers to film leader must be proposed by the vendor.
 
-**Film repair**
+#### Film repair
       * Repair deteriorated or broken splices and perforations as needed to achieve acceptable image capture.
           * Any repair actions taken must not result in any significant loss of content or annotations beyond what is necessary to achieve capture. Annotations on leader that must be cut off to make a repair must be included in the JSON metadata.
       * Chemical treatment for deshrinking or rehumidification of shrunken, brittle and/or curling film must be approved with NYPL prior to treatment.
 
-**Film rehousing**
+#### Film rehousing
       * Cans and cores: NYPL anticipates that a majority of film objects will be rehoused to archival cores and containers prior to vendor work, but some objects may not be due to their condition. Only objects which have not been rehoused by NYPL may be rehoused.
           * If needed, non-archival containers, shipping reels, and cores must be replaced with archival containers, cores, and/or reels.
               * must comply with the Photographic Activity Test (PAT, ISO18916)
@@ -526,17 +472,17 @@ Project Files
           * Leader: Most film objects will have 20 feet of new leader pre-attached (10 feet at head, 10 feet at tail), labeled with NYPL unique identifiers.
               * If leader must be added to an object, label the head and tail leader with the objects NYPL unique identifier.
 
-**Treatment and rehousing: Video media**
-  * **Video handling**
+### Treatment and rehousing: Video media
+#### Video handling
       * Record tabs, if present, must be removed prior to digitization.
-  * **Video cleaning & baking**
+#### Video cleaning & baking
       * If professional-grade cleaning machines exist for a particular video format, they must be used, and the action noted in metadata digitization process notes. Cleaning machines should also undergo regular servicing to ensure that tapes will not be damaged during the cleaning process.
       * Video formats that regularly fall victim to Sticky-Shed Syndrome, or any other form of binder hydrolysis, should be baked to achieve optimal reformatting. NYPL is open to local baking customs, though these procedures must be communicated in a detailed manner as part of the response to this RFP.
-  * **Video repair and rehousing**
+#### Video repair and rehousing
       * Treatments such as re-shelling or rehousing should be performed, when needed, by skilled technicians to achieve optimal reformatting.
 
-  **Treatment and rehousing: Audio media**
-    * **Audio reel and cassette rehousing:** Reels and Cassettes
+### Treatment and rehousing: Audio media
+#### Audio reel and cassette rehousing:Reels and Cassettes
 Slotless hubs are preferred, dependent on funds approval by NYPL. If slotless hubs are not commercially available, reuse the original reel and wind one-eighth inch of leader tape around the hub to minimize the effect of the slot.
         * Tape on 3-inch and 5-inch reels:
             * Wind onto new 7-inch reels with slotless hubs.
@@ -552,8 +498,8 @@ Slotless hubs are preferred, dependent on funds approval by NYPL. If slotless hu
         * Cassettes:
             * Replace broken shells and cases with new archival shells and cases, as approved by NYPL.
 
-**Treatment and rehousing: Grooved Disc**
-  * **Grooved Disc identification and rehousing**
+### Treatment and rehousing: Grooved Disc
+#### Grooved Disc identification and rehousing
         * Glass discs have a piece of red tape wrapped around the edge.
             * **Blue tape below the red tape indicates  that the disc is either cracked, chipped, or broken, and should be handled with the utmost of care.**
         * All discs must be rehoused into acid-free and lignin-free buffered paper sleeves approved by NYPL.
@@ -561,7 +507,7 @@ Slotless hubs are preferred, dependent on funds approval by NYPL. If slotless hu
         * Any IDs should be copied from the old sleeve to the new one in the upper right hand corner
         * All original materials (including old sleeves) must be returned to NYPL at the conclusion of the project.
 
-* **Grooved Disc cleaning**
+### Grooved Disc cleaning
 Discs must be cleaned according to procedures appropriate for their type, detailed below.  
     * **Cleaning and rehousing of shellac, shellac-vinyl compound, and vinyl discs:**
         * Cleaning and drying must be carried out with a disc-cleaning machine suitable for archival discs.
@@ -573,10 +519,10 @@ Discs must be cleaned according to procedures appropriate for their type, detail
             * Glass discs: Oxidation may be cleaned with a solution of non-scented detergent and PhotoFlo (or comparable product approved by NYPL)
             * Hand-wash with a solution of non-scented liquid soap and PhotoFlo or similar product; rinse with lukewarm water; repeat as needed on both sides; vacuum and dry discs as normal.
 
-    * **Cylinder cleaning**
+#### Cylinder cleaning
         * No wet cleaning of cylinders. Only soft brushes are to be used for cleaning.
 
-    * **Cylinder rehousing**
+#### Cylinder rehousing
         * All cylinders should be rehoused into buffered board boxes approved by NYPL. The recommended product is the Wax Cylinder Storage Boxes designed under the guidance of the Northeast Document Conservation Center from University Products (#612-0364 for 4” cylinders, #612-0366 for 6” cylinders).
         * All associated original packaging, papers and ephemera should be included in the separate compartment in each box.
         * Consult IASA-TC 04, 2nd edition, Chapter 5 for best practices regarding cylinder handling, playback, and rehousing.
@@ -588,9 +534,9 @@ Specifications may be modified over time to reflect changes in best practices or
 
 The following sections are broken into format groups to define the file deliverables for different media types and format variations.
 
-**FILM MEDIA**
-**Film Groups 1 and 2: Motion Picture Film, Silent / Sound
-**_Deliverables_**
+### FILM MEDIA
+#### Film Groups 1 and 2: Motion Picture Film, Silent / Sound
+####_Deliverables_
 For each original recording, the following shall be produced:
   * One preservation master file*
   * One mezzanine file*
@@ -599,13 +545,10 @@ For each original recording, the following shall be produced:
 
 If the object has audio content (i.e. composite sound print), audio must be synchronized and embedded in all final deliverables.
 
-**_Capture tools_**
+####_Capture tools_**
   * Film must be digitized and captured as DPX, then transcoded with any synchronous Broadcast Wave files to FFV1/FLAC/Matroska using RAWcooked (https://mediaarea.net/RAWcooked)
 
-**_Preservation master file specifications: Film groups 1 & 2: Motion picture film, silent / sound_**
-
-<a name="preservation-master-file-specifications-for-film-groups-1-&2:-motion-picture-film,-silent/-sound"></a>
-### Preservation Master Film Specifications for Film Groups 1 & 2: Motion picture film, silent/ sound
+####_Preservation master file specifications: Film groups 1 & 2: Motion picture film, silent / sound_
 
 | Attribute | Specification |
 | --- | ------ |
@@ -627,7 +570,7 @@ If the object has audio content (i.e. composite sound print), audio must be sync
 | Transfer characteristics | Printing Density |
 | Notes | Transcoded to FFV1/MKV from DPX using RAWCooked |
 
-**_Mezzanine file specifications: Film group 1 & 2 (Motion picture film, silent / sound)_**
+#### _Mezzanine file specifications: Film group 1 & 2 (Motion picture film, silent / sound)_
 
 | Attribute | Specification |
 | --- | ------ |
@@ -652,7 +595,7 @@ If the object has audio content (i.e. composite sound print), audio must be sync
 | Image corrections | Color corrected for dye fading,
 Cropped to picture - no frame-lines or sound track visible, Non-anamorphic |
 
-**_Service copy file specifications: Film group 1 & 2 (Motion picture film, silent / sound)_**
+####_Service copy file specifications: Film group 1 & 2 (Motion picture film, silent / sound)_
 
 | Attribute | Specification |
 | --- | ------ |
@@ -676,9 +619,9 @@ Cropped to picture - no frame-lines or sound track visible, Non-anamorphic |
 | Image | Color corrected for dye fading |
 | corrections | Cropped to picture - no frame-lines or sound track visible, Non-anamorphic |
 
-**Film Group 3: Audio film**
+### Film Group 3: Audio film
 
-**_Preservation master file specifications: Film group 3 (Audio film)_**
+#### _Preservation master file specifications: Film group 3 (Audio film)_
 
 | Attribute | Specification |
 | --- | ------ |
@@ -692,7 +635,7 @@ Cropped to picture - no frame-lines or sound track visible, Non-anamorphic |
 | Other characteristics | If there are tones / sync marks present, they must be captured or resolved and described in metadata signal notes. |
 | BEXT metadata | If possible, BEXT metadata must be embedded as per specifications for audio deliverables |
 
-**_Edit master file specifications: Film group 3 (Audio film)_**
+#### _Edit master file specifications: Film group 3 (Audio film)_
 
 | Attribute | Specification |
 | --- | ------ |
@@ -706,13 +649,13 @@ Cropped to picture - no frame-lines or sound track visible, Non-anamorphic |
 | Other characteristics | If there are tones / sync marks present, they must be captured and described in metadata signal notes |
 | BEXT metadata | BEXT metadata must be embedded as per specifications for audio deliverables |
 
-**Film Group 4: Filmstrips**
+### Film Group 4: Filmstrips
 NYPL will review recommendations for digitization of filmstrips (and accompanying audio media, where applicable) before defining a specification. Requests for recommendations regarding these objects have been included in the Business Questions section.
 
 
-**VIDEO MEDIA**
+### VIDEO MEDIA
 
-**_Deliverables_**
+#### _Deliverables_
 For each original recording, the following shall be produced:
   * One preservation master file
       * If captions are present in source, one closed captions sidecar file
@@ -720,10 +663,10 @@ For each original recording, the following shall be produced:
   * One metadata file per media file
   * Image files as described
 
-**_Capture tools_**
+#### _Capture tools_
 Preservation master video files must be generated by professional-grade capture devices and software, with either direct capture to FFV1/FLAC/MKV, or transcoding from V210/PCM/MOV. Specific FFmpeg transcoding recipes will be provided by NYPL to ensure consistency.
 
-**Preservation master files, all groups**
+### Preservation master files, all groups
   * Characteristics intrinsic to the broadcast standard of the source material, including frame rate, pixel aspect ratio, interlacing, resolution, and recording standard (NTSC, PAL, SECAM, etc.) should be preserved.
   * Signal extraction must be optimal, and carried out using the equipment and accessories that are appropriate for the original format characteristics.
   * The most direct and clean signal path must be used at all times from source to destination. There may be no devices inserted in the signal path that are not being used. If there are multiple destination formats being used in the transfer the signal path must be routed in parallel. No daisy-chaining of devices may occur.
@@ -733,17 +676,18 @@ Preservation master video files must be generated by professional-grade capture 
   * The recording should run until the end of the recorded content (picture and sound).  If this endpoint cannot be unambiguously determined, the recording should run until the end of the original object.
   * If present on the source tape, closed captions must be captured.
 
-**Video preservation master sidecar files**
-  * **Closed captions**
+### Video preservation master sidecar files
+#### Closed captions
       * f captions are present in source object, an .scc sidecar file must be created and accompany the preservation master file (closed captioning must be embedded in service copies. See service copy specifications).
           * Format: Scenarist Closed Caption File (.scc)
           * Naming Convention: division_PrimaryID_v01_pm.scc
       * Closed captions specifications may change in the future to accommodate updates to standards or NYPL infrastructure needs.
 
-  * QCTools Reports
+### QCTools Reports
       * Each video preservation master file should receive a corresponding QCTools report, which will be included in the PreservationMasters Bagged directory as a sidecar file.
           * Format: QCTools Report (gzipped XML) (https://www.bavc.org/preserve-media/preservation-tools)
           * Naming Convention: division_PrimaryID_v01_pm.mkv.qctools.xml.gz
+
 **_Preservation master file specifications:_**
 **_video group 1: analog and digital cassettes, analog open reel_**
 
@@ -765,12 +709,12 @@ Preservation master video files must be generated by professional-grade capture 
 | Audio sampling rate | 48 kHz |
 | Audio channels | (Same as original media, see guidelines for silent channels) |
 
-**Silent audio channels**
+### Silent audio channels
   * If a channel exists and is silent, the channel should be captured and a note should be included in the JSON file that the indicates that the tape and the channels delivered on preservation master file are silent. If a channel is non-existent, then it won't be captured. For example:
   * If soundField="ch.1:mono, ch.2: none" rather than soundField= "mono", then the second channel exists, and source.audioRecording.numberOfAudioChannels = 2 (and the preservation master file delivered will contain 2 channels of audio, one of which is silent).
   * Two silent channels If detected as actual channels / i.e. recorded with "black" vs. not recorded), both channels should be captured and delivered with the preservation master, and a signalNote should be included that the tape is silent.
 
-**Timecode**
+### Timecode
   * Two forms of legacy/source timecode should be retained: LTC Timecode, recorded on an audio channel, should be captured as an audio stream in the resulting preservation master file; VITC timecode, if present, should be captured through the use of appropriate playback devices and a carefully routed SDI signal chain.
 
   **_Preservation master file specifications: video group 2: DV (digital video) cassettes_**
@@ -810,10 +754,10 @@ Preservation master video files must be generated by professional-grade capture 
 | Audio channels | 2 (see examples) |
 | Closed captions* | CEA-608  (*if applicable) |
 
-**_Anamorphic video_**
+#### _Anamorphic video_
   * For service copies created from Anamorphic preservation masters, treat source as D1/DV NTSC or PAL Widescreen to produce a 16 x 9 service copy without padding. Pixel aspect ratio should be 1.21 (NTSC) / 1.46 (PAL).
 
-**_Complex audio configurations_**
+#### _Complex audio configurations_
   * 4 audio channels on source:
       * If a source tape has 4 audio channels of identical content (i.e. 4 mics in a single room recording the same content), the 4 channels captured in the preservation master should be mixed down to 2 for the service copy.
       * If each audio channel contains different content, consult with NYPL for how to proceed.
@@ -821,15 +765,15 @@ Preservation master video files must be generated by professional-grade capture 
       * Audible content in only one channel:
           * If there is only audible content in a single channel of any number of channels in a source tape and preservation master, the channel containing audible content should be mapped for production of a 2-channel service copy to provide a better user experience.
 
-  **_Timecode_**
+#### _Timecode_
       * Audible LTC Timecode should be eliminated, and “normal” content should be duplicated onto the second channel.
 
-  **_Trimming of Heads and Tails_**
+#### _Trimming of Heads and Tails_
       * Color bars must not be trimmed.
       * Long tails of black / “snow” / unrecorded content may be trimmed after confirmation that there is no visible or audible recorded content.
       * Trimming must not result in an abrupt end of visible or audible content.
 
-**AUDIO MEDIA**
+### AUDIO MEDIA
 
 **_Deliberables_**
 For each collection object, the following shall be produced:
@@ -866,7 +810,7 @@ Signal Extraction
       * If a sync tone is present (i.e. Pilottone), tone must be captured or resolved.  
       * For all grooved media, preservation master files must include the “needle-drop” and “needle-lift”.
 
-**Special circumstances and object-file relationships**
+#### Special circumstances and object-file relationships
     * **Faces:** In general, one preservation master file will be generated for each physically or technically discrete recording area of the original object.
         * For example, each side of an audio cassette or disc will be recorded as a separate preservation master file, identified with a designated Face number.
     * Considerations and circumstances that impact the number of preservation masters generated for each physical object, and/or for each discrete recording area:
@@ -882,13 +826,147 @@ BEXT metadata must be embedded in each audio file upon capturing to WAV. See Met
 
 **_Preservation master file specifications: audio group 1: analog magnetic_**
 
-| **Preservation master file specification: audio group 1** |
-| Attribute | Specification |
-| ---- | ----- |
-|Audio data encoding | Free Lossless Audio Codec (FLAC) |
-| File wrapper | FLAC (.flac) |
-|Bit depth | 24 |
-| Sampling rate | 96,000 Hz |
+  | **Preservation master file specification: audio group 1** |
+  | Attribute | Specification |
+  | ---- | ----- |
+  |Audio data encoding | Free Lossless Audio Codec (FLAC) |
+  | File wrapper | FLAC (.flac) |
+  |Bit depth | 24 |
+  | Sampling rate | 96,000 Hz |
+  | Number of audio channels | (same as source) |
+
+**_Preservation master file specifications: audio group 2: digital magnetic_**
+
+  | **Preservation master file specification: audio group 2** |
+  | Attribute | Specification |
+  | ---- | ----- |
+  | Audio codec | Free Lossless Audio Codec |
+  | File wrapper | FLAC (.flac) |
+  | Bit depth | (same as source) |
+  | Sampling rate | (same as source) |
+  | Number of audio channels | (same as source) |
+
+**_Preservation master file specifications: audio group 3: optical disc_**
+
+**CUE text files**
+
+In congress with capturing a Broadcast Wave file prior to transcoding to .flac, a CUE file must be generated. The CUE file must:
+    * Follow the same naming convention as the WAV file, but instead with a ".cue" extension. Example: "myh_123456_v01f01_pm.cue"
+    * Be referenced in the JSON file under the technical.cueFile field, by its complete filename
+    * Be nested within the Preservation Masters directory, accompanying the Preservation Master WAV file (the Edit master must not have a .cue file):
+        * PrimaryID
+            * data
+                * PreservationMasters
+                    * division_PrimaryID_v01f01.flac
+                    * division_PrimaryID_v01f01.cue
+                    * division_PrimaryID_v01f02.flac
+                    * division_PrimaryID_v01f02.cue
+                  * EditMasters
+                    * division_PrimaryID_v01f01.flac
+                    * division_PrimaryID_v01f02.flac
+
+  **_Preservation master file specifications: audio group 3: optical disc_**
+
+  | **Preservation master file specification: audio group 3** |
+  | Attribute | Specification |
+  | ---- | ----- |
+  |Audio codec | Free Lossless Audio Codec (FLAC) |
+  | File wrapper | FLAC (.flac) |
+  | Bit depth | (same as source) |
+  | Sampling rate | (same as source) |
+  | Number of audio channels | 2 (left + right discrete) |
+  | Other characteristics | CDs should be captured as a single file |
+
+  **_Preservation master file specifications: audio group 4: grooved disc_**
+
+  | **Preservation master file specification: audio group 4** |
+  | Attribute | Specification |
+  | ---- | ----- |
+  | Audio data encoding | Free Lossless Audio Codec (FLAC) |
+  | File wrapper | FLAC (.flac) |
+  | Bit depth | 24 |
+  | Sampling rate | 96,000 Hz |
+  | Number of audio channels | 2 (left + right discrete) |
+
+  Reproduction details  
+      * Playback EQ curves for all discs should be utilized.
+            * If a disc’s playback curve is not known or stated on the label, the phono EQ should be set to RIAA (for microgrooves 1948-present) or a “default” curve of 400Hz turnover and -12dB @ 10kHz rolloff (for transcription discs). **All EQ curves should be noted in the metadata digitization process notes.**
+      * Equipment
+            * NYPL requires either the Time-Step line of phono EQs, or the KAB Souvenir Equalizer. Owl EQs are not acceptable due to the age, added noise floor, and lack of versatility needed for our collections. **Other phono EQs may be submitted for approval.**
+      * All discs should be transferred with the cartridge switched to "lateral" unless otherwise indicated on the label.
+      * A full complement of stylus shapes and sizes should be on-hand at the vendor transfer station, and **he best sounding size/shape stylus used for transfer should be noted in the metadata digitization process notes.**
+            * Modern LP styli must **not** be used to transfer shellac, shellac-vinyl compound, or early vinyl discs.
+      * Tone arm requirements:
+            * Arm must be long enough to comfortably reach the outer grooves.
+            * Arm should be vertically adjustable to accommodate the various thicknesses of pressings.
+            * During playback, the angle of the tonearm from front to back should be perfectly parallel in relationship to the disc while it is playing.
+      * While playing a face, for any speed changes or instances where the stylus has to be repositioned to continue playing, a separate preservation master must be created for each Region.
+      * If the stylus skips, attempt to correct and retransfer the area before and after, add this note into the metadata along with time stamp.
+            * If unable to perform these functions, set aside and return to NYPL.
+
+**_Preservation master file specifications: audio group 5: grooved cylinder_**
+
+  | **Preservation master file specification: audio group 5** |
+  | Attribute | Specification |
+  | ---- | ----- |
+  | Audio data encoding | Free Lossless Audio Codec (FLAC) |
+  | File wrapper | FLAC (.flac) |
+  | Bit depth | 24 |
+  | Sampling rate | 96,000 Hz |
+  | Number of audio channels | 2 (left + right discrete) |
+
+Reproduction Details
+    * No playback EQ curves for cylinder preservation masters. Must be transferred “flat”, with cartridge switched to “vertical”.  
+    * At the start of the preservation master file, a 1kHz tone at operating level (-16 dBFS) for 30 seconds should be added.
+    * Equipment must be approved by NYPL in writing. NYPL prefers use of Archeophone, Endpoint, or Levin CPS1 cylinder reproducers. Period equipment is not acceptable for use due to age and inconsistency of these machines and the greater potential for damage to the Archival Objects.
+    * An appropriate assortment of stylus sizes and shapes for cylinders should be on-hand at the vendor transfer station and **the best sounding size/shape stylus used for transfer should be noted in the phonoCartridge metadata fields.**
+    * Player setup and playback practices should adhere to best practices.
+    * Careful determination of the groove pitch (Threads Per Inch or TPI), speed (with correction if needed), and cylinder material (brown wax, Gold Moulded, etc.) need to be determined BEFORE transfer and noted in metadata digitization process notes.
+
+**_Edit master file specifications: all audio groups_**
+
+  | **Preservation master file specification: all groups** |
+  | Attribute | Specification |
+  | ---- | ----- |
+  | Audio data encoding | Free Lossless Audio Codec (FLAC) |
+  | File wrapper | FLAC (.flac) |
+  | Bit depth | equal to preservation master |
+  | Sampling rate | equal to preservation master |
+  | Number of audio channels | Mono, 1; Stereo, 2 |
+
+Head and Tail Edits (Trimming)
+    * The “needle-drop” and “needle-lift” present in preservation master files must be edited out of the edit master files.
+    * Unrecorded portions of the collection object captured in the preservation master shall be eliminated.
+    * Test tones and any equipment noise at the start and/or end of audible content (such as equipment on/off “clicks” or a stylus in the groove) should be trimmed. Trimming should not result in an abrupt start and/or end of audible content.
+    * Elimination of the 5-second overlap included on any Preservation Masters that have been split out into multiple files for separate regions / streams / etc.
+
+Level adjustment  
+    * When balance and/or overall level are insufficient a peak level adjustment of max. -2db may be implemented as necessary.
+Channel Adjustment
+    * Ensuring that "mono" is true mono
+
+### DATA MEDIA  
+**_Deliverables_**
+For each collection object, the following shall be produced:
+  * One or more preservation master file(s)
+  * One metadata file per media file
+  * Image files as described
+
+**_Capture tools_**
+Preservation masters must be captured/encoded as ISO9660 Disc Images.
+
+**_Preservation master file specifications: data optical disc_**
+Media in Data Group 1 are distinguished from media in Audio Group 3 and Video Group 3 as follows:
+  * Data Group 1 uses an ISO 9660 file system to encode data
+  * Data Group 1 discs do not contain a top-level directory title “AUDIO_TS” or “VIDEO_TS”
+
+  | **Preservation master file specification: all groups** |
+  | Attribute | Specification |
+  | ---- | ----- |
+  |File system | ISO 9660 / UDF |
+  | File wrapper | ISO (.iso) |
+  | Other characteristics | (Same as source) |
+
 
 
 
