@@ -290,16 +290,16 @@ Package digital assets using the BagIt specification (V0.97) (https://tools.ietf
 
 ### File naming convention
 
-    NYPL will provide the vendor with a filename “root” for each collection object, consisting of a three-letter prefix, the primary ID, a volume number (and a face number for audio objects), and a two-letter suffix indicating the role of the file.  These sections are each separated by an underscore: (prefix)_ primary ID)_ (components) _ (file role).ext
+NYPL will provide the vendor with a filename “root” for each collection object, consisting of a three-letter prefix, the primary ID, a volume number (and a face number for audio objects), and a two-letter suffix indicating the role of the file.  These sections are each separated by an underscore: (prefix)_ primary ID)_ (components) _ (file role).ext
 
-      * Video example: myd_123456_v01_pm.mkv
-      * Audio example : myh_987654_v01f01r01_pm.flac
+  * Video example: myd_123456_v01_pm.mkv
+  * Audio example : myh_987654_v01f01r01_pm.flac
 
     It is the vendor’s responsibility to complete  the filename to accommodate multiple volumes, faces, regions, etc. where applicable, as defined by the filename components listed below.
 
 ### Filename components
-      * A file name must use the following components to represent the portion of a physical media object represented by the file (see “component” chart). Example:
-        * The file representing the second take of the second part of the third stream of the second region of the second face of an object marked as volume 1 is named as myd_259382_v01f02r02s03p02t02_pm.wav.
+  * A file name must use the following components to represent the portion of a physical media object represented by the file (see “component” chart). Example:
+  * The file representing the second take of the second part of the third stream of the second region of the second face of an object marked as volume 1 is named as myd_259382_v01f02r02s03p02t02_pm.wav.
 
 | **Component** | **Use** | **Note** |
 | ---- | ----- | ---- |
@@ -333,12 +333,12 @@ A media file name must record its intended role using one of the following suffi
   * NYPL must approve the method of shipment for the hard drives.
 
 ### Pilot delivery
-    * Before general production begins on a project, a shipment of "pilot" digital assets must be delivered as follows via FTP:
-    * FTP login information must be provided via email to NYPL project managers at the onset of a given project.
-    * 5 completed Bags each of audio, video, and film assets (15 bags total maximum)
-    * Pilot shipment via FTP must be packaged within a directory that is given a shipment identification number.
-    * Once pilot is approved, the FTP transfer may be considered a delivery, and the FTP transfer must be listed on the associated invoice by its identifying shipment ID (NYPL will identify this shipment using the name of the directory as given by the vendor on their FTP client).
-    * Once pilot assets are retrieved via FTP they will be reviewed in a timely manner by NYPL. Approved assets will be kept by NYPL and treated as progress deliverables (as the first shipment of a given project).
+  * Before general production begins on a project, a shipment of "pilot" digital assets must be delivered as follows via FTP:
+  * FTP login information must be provided via email to NYPL project managers at the onset of a given project.
+  * 5 completed Bags each of audio, video, and film assets (15 bags total maximum)
+  * Pilot shipment via FTP must be packaged within a directory that is given a shipment identification number.
+  * Once pilot is approved, the FTP transfer may be considered a delivery, and the FTP transfer must be listed on the associated invoice by its identifying shipment ID (NYPL will identify this shipment using the name of the directory as given by the vendor on their FTP client).
+  * Once pilot assets are retrieved via FTP they will be reviewed in a timely manner by NYPL. Approved assets will be kept by NYPL and treated as progress deliverables (as the first shipment of a given project).
 
 <a name="quality-assurance-and-quality-control"></a>
 ## Quality Assurance and Quality Control
@@ -458,7 +458,7 @@ Project Files
     * If needed, non-archival containers, shipping reels, and cores must be replaced with archival containers, cores, and/or reels.
         * must comply with the Photographic Activity Test (PAT, ISO18916)
         * must be approved by NYPL
-    * Leader: Most film objects will have 20 feet of new leader pre-attached (10 feet at head, 10 feet at tail), labeled with NYPL unique identifiers.
+  * Leader: Most film objects will have 20 feet of new leader pre-attached (10 feet at head, 10 feet at tail), labeled with NYPL unique identifiers.
         * If leader must be added to an object, label the head and tail leader with the objects NYPL unique identifier.
 
 ### Treatment and rehousing: Video media
