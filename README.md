@@ -225,8 +225,6 @@ Image files should follow the same pattern as the media files, and be placed in 
 | Resolution | Minimum 400 true DPI, without interpolation }
 | Surfaces| All enclosures: Front, back, top, bottom, left side, right side (if applicable)
 Magnetic and optical media: Front, (any side with annotations)
-Grooved discs: every face, in same file naming convention as PM files
-Grooved cylinders: top, front (side/upright view), any annotations |
 | Notes | Images with text or content to which ‘orientation’ applies should be oriented correctly (i.e. for the language in which any text is written); If sides, top, or bottom do not have content, do not capture. If media object itself has extensive labeling, please include media alongside enclosure in applicable photographs (i.e. side of tape with side of case in the same shot). |
 
 <a name="digital-asset-and-hard-drive-structure"></a>
