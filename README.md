@@ -51,25 +51,25 @@ All tasks must comply with NYPL specifications, which are maintained in publical
       * Special treatment
       * Hard drive shipping fees
       * Hard drives storage
-## Original Media Shipping Document**
+## Original Media Shipping Document
   * Produced by: Sender
   * Scope: Box-level inventory of physical media objects in shipment.
   * Format: PDF
   * Instructions: Sender, shipper, and recipient should sign and date the document. Completed document will be scanned to PDF and copied to NYPL and Vendor project coordinators.
-**Discrepancy report**
+### Discrepancy report
   * Produced by: Vendor
   * Scope: list of objects for which there are discrepancies between inventory and actual objects:
       * a) there are objects listed in inventory that were not received by vendor as expected; or
       * b) there are objects received by the vendor that were not listed in the inventory and/or for which accurate metadata was not yet provided by NYPL.
   * Template for Discrepancy Report: (https://github.com/NYPL/ami-handling/blob/master/templates/2020_000_discrepancies_yyyymmdd.xlsx )
-**Hard Drive Manifest**
+### Hard Drive Manifest
   * Produced by: Vendor
   * Scope: assets contained on hard drive
   * Expected: with each hard drive shipped
   * Instructions: the hard drive manifest should be stored in the root directory of the hard drive (do not combine hard drives)
   * Template for "HD Manifest": (https://github.com/NYPL/ami-handling/blob/master/templates/2020_000_example1_DRIVEID_hdmanifest_yyyymmdd.xlsx
 )
-**Did Not Capture Report**
+### Did Not Capture Report
   * Produced by: Vendor
   * Scope: list of physical objects that were unable to be fully transferred
   * Expected: via email at conclusion of project
