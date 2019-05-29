@@ -318,7 +318,7 @@ A media file name must record its intended role using one of the following suffi
   * image files do not require a role suffix
 
 <a name="digital_asset_delivery"></a>
-### Digital Asset Delivery
+## Digital Asset Delivery
 
 ### Delivery method
   * New hard drive(s)  must adhere to the following specifications outlined by NYPL digital preservation requirements: (https://github.com/NYPL/digpres-policies) mustbe used.
