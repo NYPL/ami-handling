@@ -888,7 +888,6 @@ Reproduction details
 
 **_Preservation master file specifications: audio group 5: grooved cylinder_**
 
-  | **Preservation master file specification: audio group 5** |
   | Attribute | Specification |
   | ---- | ----- |
   | Audio data encoding | Free Lossless Audio Codec (FLAC) |
@@ -927,21 +926,20 @@ Channel Adjustment
     * Ensuring that "mono" is true mono
 
 ### DATA MEDIA  
-**_Deliverables_**
+####Deliverables
 For each collection object, the following shall be produced:
   * One or more preservation master file(s)
   * One metadata file per media file
   * Image files as described
 
-**_Capture tools_**
+#### Capture tools
 Preservation masters must be captured/encoded as ISO9660 Disc Images.
 
-**_Preservation master file specifications: data optical disc_**
+#### Preservation master file specifications: data optical disc
 Media in Data Group 1 are distinguished from media in Audio Group 3 and Video Group 3 as follows:
   * Data Group 1 uses an ISO 9660 file system to encode data
   * Data Group 1 discs do not contain a top-level directory title “AUDIO_TS” or “VIDEO_TS”
 
-  | **Preservation master file specification: all groups** |
   | Attribute | Specification |
   | ---- | ----- |
   |File system | ISO 9660 / UDF |
