@@ -489,24 +489,24 @@ Slotless hubs are preferred, dependent on funds approval by NYPL. If slotless hu
 
 ### Treatment and rehousing: Grooved Disc
 #### Grooved Disc identification and rehousing
-        * Glass discs have a piece of red tape wrapped around the edge.
-            * **Blue tape below the red tape indicates  that the disc is either cracked, chipped, or broken, and should be handled with the utmost of care.**
-        * All discs must be rehoused into acid-free and lignin-free buffered paper sleeves approved by NYPL.
-        * Barcodes must be duplicated and affixed to the upper-left hand corner of the new sleeve.
-        * Any IDs should be copied from the old sleeve to the new one in the upper right hand corner
-        * All original materials (including old sleeves) must be returned to NYPL at the conclusion of the project.
+    * Glass discs have a piece of red tape wrapped around the edge.
+      * **Blue tape below the red tape indicates  that the disc is either cracked, chipped, or broken, and should be handled with the utmost of care.**
+      * All discs must be rehoused into acid-free and lignin-free buffered paper sleeves approved by NYPL.
+      * Barcodes must be duplicated and affixed to the upper-left hand corner of the new sleeve.
+      * Any IDs should be copied from the old sleeve to the new one in the upper right hand corner
+      * All original materials (including old sleeves) must be returned to NYPL at the conclusion of the project.
 
 ### Grooved Disc cleaning
 Discs must be cleaned according to procedures appropriate for their type, detailed below.  
-    * **Cleaning and rehousing of shellac, shellac-vinyl compound, and vinyl discs:**
-        * Cleaning and drying must be carried out with a disc-cleaning machine suitable for archival discs.
-        * Clean each disc with a solution of distilled water and Photoflo 200 or 600, The Disc Doctor’s “Miracle Cleaner”, or comparable approved product.
-    * **Cleaning and rehousing details for glass and aluminum based discs:**
-        * Discs that appear to be relatively clean and in good condition may be cleaned using an archival disc-cleaning machine.
-        * Glass and Aluminum based discs which exhibit “Palmitic Acid Syndrome” must be hand-cleaned.
-            * Aluminum discs: Oxidation may be gently wiped with mineral or castor oil and a lint-free cloth, prior to gentle hand-washing
-            * Glass discs: Oxidation may be cleaned with a solution of non-scented detergent and PhotoFlo (or comparable product approved by NYPL)
-            * Hand-wash with a solution of non-scented liquid soap and PhotoFlo or similar product; rinse with lukewarm water; repeat as needed on both sides; vacuum and dry discs as normal.
+  * **Cleaning and rehousing of shellac, shellac-vinyl compound, and vinyl discs:**
+      * Cleaning and drying must be carried out with a disc-cleaning machine suitable for archival discs.
+      * Clean each disc with a solution of distilled water and Photoflo 200 or 600, The Disc Doctor’s “Miracle Cleaner”, or comparable approved product.
+  * **Cleaning and rehousing details for glass and aluminum based discs:**
+      * Discs that appear to be relatively clean and in good condition may be cleaned using an archival disc-cleaning machine.
+      * Glass and Aluminum based discs which exhibit “Palmitic Acid Syndrome” must be hand-cleaned.
+      * Aluminum discs: Oxidation may be gently wiped with mineral or castor oil and a lint-free cloth, prior to gentle hand-washing
+      * Glass discs: Oxidation may be cleaned with a solution of non-scented detergent and PhotoFlo (or comparable product approved by NYPL)
+      * Hand-wash with a solution of non-scented liquid soap and PhotoFlo or similar product; rinse with lukewarm water; repeat as needed on both sides; vacuum and dry discs as normal.
 
 #### Cylinder cleaning
         * No wet cleaning of cylinders. Only soft brushes are to be used for cleaning.
