@@ -870,21 +870,21 @@ In congress with capturing a Broadcast Wave file prior to transcoding to .flac, 
   | Sampling rate | 96,000 Hz |
   | Number of audio channels | 2 (left + right discrete) |
 
-  Reproduction details  
-      * Playback EQ curves for all discs should be utilized.
-            * If a disc’s playback curve is not known or stated on the label, the phono EQ should be set to RIAA (for microgrooves 1948-present) or a “default” curve of 400Hz turnover and -12dB @ 10kHz rolloff (for transcription discs). **All EQ curves should be noted in the metadata digitization process notes.**
-      * Equipment
-            * NYPL requires either the Time-Step line of phono EQs, or the KAB Souvenir Equalizer. Owl EQs are not acceptable due to the age, added noise floor, and lack of versatility needed for our collections. **Other phono EQs may be submitted for approval.**
-      * All discs should be transferred with the cartridge switched to "lateral" unless otherwise indicated on the label.
-      * A full complement of stylus shapes and sizes should be on-hand at the vendor transfer station, and **he best sounding size/shape stylus used for transfer should be noted in the metadata digitization process notes.**
-            * Modern LP styli must **not** be used to transfer shellac, shellac-vinyl compound, or early vinyl discs.
-      * Tone arm requirements:
-            * Arm must be long enough to comfortably reach the outer grooves.
-            * Arm should be vertically adjustable to accommodate the various thicknesses of pressings.
-            * During playback, the angle of the tonearm from front to back should be perfectly parallel in relationship to the disc while it is playing.
-      * While playing a face, for any speed changes or instances where the stylus has to be repositioned to continue playing, a separate preservation master must be created for each Region.
+Reproduction details  
+  * Playback EQ curves for all discs should be utilized.
+      * If a disc’s playback curve is not known or stated on the label, the phono EQ should be set to RIAA (for microgrooves 1948-present) or a “default” curve of 400Hz turnover and -12dB @ 10kHz rolloff (for transcription discs). **All EQ curves should be noted in the metadata digitization process notes.**
+  * Equipment
+      * NYPL requires either the Time-Step line of phono EQs, or the KAB Souvenir Equalizer. Owl EQs are not acceptable due to the age, added noise floor, and lack of versatility needed for our collections. **Other phono EQs may be submitted for approval.**
+  * All discs should be transferred with the cartridge switched to "lateral" unless otherwise indicated on the label.
+  * A full complement of stylus shapes and sizes should be on-hand at the vendor transfer station, and **he best sounding size/shape stylus used for transfer should be noted in the metadata digitization process notes.**
+        * Modern LP styli must **not** be used to transfer shellac, shellac-vinyl compound, or early vinyl discs.
+  * Tone arm requirements:
+        * Arm must be long enough to comfortably reach the outer grooves.
+        * Arm should be vertically adjustable to accommodate the various thicknesses of pressings.
+        * During playback, the angle of the tonearm from front to back should be perfectly parallel in relationship to the disc while it is playing.
+  * While playing a face, for any speed changes or instances where the stylus has to be repositioned to continue playing, a separate preservation master must be created for each Region.
       * If the stylus skips, attempt to correct and retransfer the area before and after, add this note into the metadata along with time stamp.
-            * If unable to perform these functions, set aside and return to NYPL.
+        * If unable to perform these functions, set aside and return to NYPL.
 
 **_Preservation master file specifications: audio group 5: grooved cylinder_**
 
@@ -898,16 +898,15 @@ In congress with capturing a Broadcast Wave file prior to transcoding to .flac, 
   | Number of audio channels | 2 (left + right discrete) |
 
 Reproduction Details
-    * No playback EQ curves for cylinder preservation masters. Must be transferred “flat”, with cartridge switched to “vertical”.  
-    * At the start of the preservation master file, a 1kHz tone at operating level (-16 dBFS) for 30 seconds should be added.
-    * Equipment must be approved by NYPL in writing. NYPL prefers use of Archeophone, Endpoint, or Levin CPS1 cylinder reproducers. Period equipment is not acceptable for use due to age and inconsistency of these machines and the greater potential for damage to the Archival Objects.
-    * An appropriate assortment of stylus sizes and shapes for cylinders should be on-hand at the vendor transfer station and **the best sounding size/shape stylus used for transfer should be noted in the phonoCartridge metadata fields.**
-    * Player setup and playback practices should adhere to best practices.
-    * Careful determination of the groove pitch (Threads Per Inch or TPI), speed (with correction if needed), and cylinder material (brown wax, Gold Moulded, etc.) need to be determined BEFORE transfer and noted in metadata digitization process notes.
+  * No playback EQ curves for cylinder preservation masters. Must be transferred “flat”, with cartridge switched to “vertical”.  
+  * At the start of the preservation master file, a 1kHz tone at operating level (-16 dBFS) for 30 seconds should be added.
+  * Equipment must be approved by NYPL in writing. NYPL prefers use of Archeophone, Endpoint, or Levin CPS1 cylinder reproducers. Period equipment is not acceptable for use due to age and inconsistency of these machines and the greater potential for damage to the Archival Objects.
+  * An appropriate assortment of stylus sizes and shapes for cylinders should be on-hand at the vendor transfer station and **the best sounding size/shape stylus used for transfer should be noted in the phonoCartridge metadata fields.**
+  * Player setup and playback practices should adhere to best practices.
+  * Careful determination of the groove pitch (Threads Per Inch or TPI), speed (with correction if needed), and cylinder material (brown wax, Gold Moulded, etc.) need to be determined BEFORE transfer and noted in metadata digitization process notes.
 
 **_Edit master file specifications: all audio groups_**
 
-  | **Preservation master file specification: all groups** |
   | Attribute | Specification |
   | ---- | ----- |
   | Audio data encoding | Free Lossless Audio Codec (FLAC) |
@@ -917,10 +916,10 @@ Reproduction Details
   | Number of audio channels | Mono, 1; Stereo, 2 |
 
 Head and Tail Edits (Trimming)
-    * The “needle-drop” and “needle-lift” present in preservation master files must be edited out of the edit master files.
-    * Unrecorded portions of the collection object captured in the preservation master shall be eliminated.
-    * Test tones and any equipment noise at the start and/or end of audible content (such as equipment on/off “clicks” or a stylus in the groove) should be trimmed. Trimming should not result in an abrupt start and/or end of audible content.
-    * Elimination of the 5-second overlap included on any Preservation Masters that have been split out into multiple files for separate regions / streams / etc.
+  * The “needle-drop” and “needle-lift” present in preservation master files must be edited out of the edit master files.
+  * Unrecorded portions of the collection object captured in the preservation master shall be eliminated.
+  * Test tones and any equipment noise at the start and/or end of audible content (such as equipment on/off “clicks” or a stylus in the groove) should be trimmed. Trimming should not result in an abrupt start and/or end of audible content.
+  * Elimination of the 5-second overlap included on any Preservation Masters that have been split out into multiple files for separate regions / streams / etc.
 
 Level adjustment  
     * When balance and/or overall level are insufficient a peak level adjustment of max. -2db may be implemented as necessary.
