@@ -32,13 +32,13 @@ All tasks must comply with NYPL specifications, which are maintained in publical
 <a name="documentation"></a>
 ## Documentation
 
-**Statement of Work (SOW)**
+### Statement of Work (SOW)
   * Produced by: NYPL
   * Scope: description of body of work covered by a discrete budget, schedule, and quantity of materials.
-**Metadata inventory**
+### Metadata inventory
   * Produced by: NYPL
   * Scope: object inventory with starter metadata, covered by statement of work and purchase order.
-**Vendor quote**
+### Vendor quote
   * Produced by: Vendor
   * Scope: Scope as described by a single Statement of Work (SOW)
   * Expected: following receipt of SOW or work request
@@ -51,7 +51,7 @@ All tasks must comply with NYPL specifications, which are maintained in publical
       * Special treatment
       * Hard drive shipping fees
       * Hard drives storage
-**Original Media Shipping Document**
+## Original Media Shipping Document**
   * Produced by: Sender
   * Scope: Box-level inventory of physical media objects in shipment.
   * Format: PDF
