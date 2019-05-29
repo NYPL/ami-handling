@@ -439,36 +439,36 @@ Project Files
 
 ### Treatment and rehousing: Film media
 #### Film handling
-    * Films on cores and in archival cans must be stored flat, horizontally.
-    * Films in shipping containers and on shipping reels may be stored vertically until rehoused to archival cans and cores to prevent damage prior to rehousing.
-    * Films should not be transported via sprockets through any equipment unless for syncing purposes through synchronizers. This should apply to all phases of film work, including winding, inspection, cleaning, scanning. Record footage count through scanning as opposed to synchronizer.
+  * Films on cores and in archival cans must be stored flat, horizontally.
+  * Films in shipping containers and on shipping reels may be stored vertically until rehoused to archival cans and cores to prevent damage prior to rehousing.
+  * Films should not be transported via sprockets through any equipment unless for syncing purposes through synchronizers. This should apply to all phases of film work, including winding, inspection, cleaning, scanning. Record footage count through scanning as opposed to synchronizer.
 
 ### Film cleaning
-    * Prior to digitization, if condition of the film allows for cleaning, films shall be cleaned with a solvent approved by NYPL, preferably Perchloroethylene.
-    * Precaution must be used when cleaning films with magnetic sound. Magnetic film cleaning chemicals must be discussed with with NYPL.
-    * Cleaning solvents must not remove NYPL unique identifiers; otherwise, a method for reapplying identifiers to film leader must be proposed by the vendor.
+  * Prior to digitization, if condition of the film allows for cleaning, films shall be cleaned with a solvent approved by NYPL, preferably Perchloroethylene.
+  * Precaution must be used when cleaning films with magnetic sound. Magnetic film cleaning chemicals must be discussed with with NYPL.
+  * Cleaning solvents must not remove NYPL unique identifiers; otherwise, a method for reapplying identifiers to film leader must be proposed by the vendor.
 
 #### Film repair
-    * Repair deteriorated or broken splices and perforations as needed to achieve acceptable image capture.
-        * Any repair actions taken must not result in any significant loss of content or annotations beyond what is necessary to achieve capture. Annotations on leader that must be cut off to make a repair must be included in the JSON metadata.
-    * Chemical treatment for deshrinking or rehumidification of shrunken, brittle and/or curling film must be approved with NYPL prior to treatment.
+  * Repair deteriorated or broken splices and perforations as needed to achieve acceptable image capture.
+      * Any repair actions taken must not result in any significant loss of content or annotations beyond what is necessary to achieve capture. Annotations on leader that must be cut off to make a repair must be included in the JSON metadata.
+  * Chemical treatment for deshrinking or rehumidification of shrunken, brittle and/or curling film must be approved with NYPL prior to treatment.
 
 #### Film rehousing
-    * Cans and cores: NYPL anticipates that a majority of film objects will be rehoused to archival cores and containers prior to vendor work, but some objects may not be due to their condition. Only objects which have not been rehoused by NYPL may be rehoused.
-        * If needed, non-archival containers, shipping reels, and cores must be replaced with archival containers, cores, and/or reels.
-            * must comply with the Photographic Activity Test (PAT, ISO18916)
-            * must be approved by NYPL
-        * Leader: Most film objects will have 20 feet of new leader pre-attached (10 feet at head, 10 feet at tail), labeled with NYPL unique identifiers.
-            * If leader must be added to an object, label the head and tail leader with the objects NYPL unique identifier.
+  * Cans and cores: NYPL anticipates that a majority of film objects will be rehoused to archival cores and containers prior to vendor work, but some objects may not be due to their condition. Only objects which have not been rehoused by NYPL may be rehoused.
+    * If needed, non-archival containers, shipping reels, and cores must be replaced with archival containers, cores, and/or reels.
+        * must comply with the Photographic Activity Test (PAT, ISO18916)
+        * must be approved by NYPL
+    * Leader: Most film objects will have 20 feet of new leader pre-attached (10 feet at head, 10 feet at tail), labeled with NYPL unique identifiers.
+        * If leader must be added to an object, label the head and tail leader with the objects NYPL unique identifier.
 
 ### Treatment and rehousing: Video media
 #### Video handling
-      * Record tabs, if present, must be removed prior to digitization.
+  * Record tabs, if present, must be removed prior to digitization.
 #### Video cleaning & baking
-    * If professional-grade cleaning machines exist for a particular video format, they must be used, and the action noted in metadata digitization process notes. Cleaning machines should also undergo regular servicing to ensure that tapes will not be damaged during the cleaning process.
-    * Video formats that regularly fall victim to Sticky-Shed Syndrome, or any other form of binder hydrolysis, should be baked to achieve optimal reformatting. NYPL is open to local baking customs, though these procedures must be communicated in a detailed manner as part of the response to this RFP.
+  * If professional-grade cleaning machines exist for a particular video format, they must be used, and the action noted in metadata digitization process notes. Cleaning machines should also undergo regular servicing to ensure that tapes will not be damaged during the cleaning process.
+  * Video formats that regularly fall victim to Sticky-Shed Syndrome, or any other form of binder hydrolysis, should be baked to achieve optimal reformatting. NYPL is open to local baking customs, though these procedures must be communicated in a detailed manner as part of the response to this RFP.
 #### Video repair and rehousing
-    * Treatments such as re-shelling or rehousing should be performed, when needed, by skilled technicians to achieve optimal reformatting.
+  * Treatments such as re-shelling or rehousing should be performed, when needed, by skilled technicians to achieve optimal reformatting.
 
 ### Treatment and rehousing: Audio media
 #### Audio reel and cassette rehousing:Reels and Cassettes
