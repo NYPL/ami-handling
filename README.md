@@ -304,8 +304,7 @@ Package digital assets using the BagIt specification (V0.97) (https://tools.ietf
 | **Component** | **Use** | **Note** |
 | ---- | ----- | ---- |
 | Volume: v## | <ul><li>A Volume is one video or audio object in a set of objects, when that set has been assigned a single primary identifier (i.e. NYPL Primary ID)</li> | Audio and video |
-| Face: f## | <ul><li>A Face is a stream or track, or a group of streams or tracks which play synchronously, within an audio object. Every audio object has at least one Face. | Audio and video |
-</li><li>Some optical video formats are double-sided (rare)</li> | Audio and video |
+| Face: f## | <ul><li>A Face is a stream or track, or a group of streams or tracks which play synchronously, within an audio object. Every audio object has at least one Face.</li><li>Some optical video formats are double-sided (rare)</li> | Audio and video |
 | Region: r## | <ul><li>A Region is a subdivision of a Face.
 </li><li>Regions are most often defined by a required change in playback characteristics of an object's Face (speed, EQ, track configuration, color encoding system etc.).
 </li> | Audio and video |
