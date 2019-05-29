@@ -100,20 +100,20 @@ All tasks must comply with NYPL specifications, which are maintained in publical
   | --- | --- | ---- |
   | Audio Group 1 (Analog Magnetic) | Audio Reels Analog | <ul><li>Half-inch open-reel audio</li><li>One-inch open-reel audio</li><li>Quarter-inch open-reel audio</li><li>Two-inch open-reel audio</li></ul>
   | Audio Group 1 (Analog Magnetic) | Audio Cassettes Analog | <ul><li>8-track</li><li>Compact Cassette</li><li>Microcassette</li><li>Minicassette</li><li>Fidelipac Cartridge</li><li>RCA Tape Cartridge</li><li>NAB Cartridge</li><li>Elcaset (L-Cassette)</li>
-  | Audio Wire | <ul><li>Magnetic Wire (Webster Chicago)</li>
+  | Audio Group 1 (Analog Magnetic) | Audio Wire | <ul><li>Magnetic Wire (Webster Chicago)</li>
 
 
   |Group | Type | Formats |
-  | --- | --- | ---- |
+  | --- | --- | --- |
   | Audio Group 2 (Digital Magnetic) | Audio Cassettes Digital | <ul><li>ADAT</li><li>DAT</li><li>DA-88</li><li>Digital Compact Cassette</li><li>U-matic/PCM</li><li>Betamax/PCM</li><li>VHS/PCM</li><li>Hi8/PCM</li><ul>
-  | Audio Reels Digital | <ul><li>ProDigi</li><li>DASH</li></ul><ul><li>NAGRA-D</li>
+  | Audio Group 2 (Digital Magnetic) | Audio Reels Digital | <ul><li>ProDigi</li><li>DASH</li></ul><ul><li>NAGRA-D</li>
   | Audio Group 3 | Audio Optical Disc | <ul><li>Audio CD-DA</li><li>Audio CD±R</li><li>Audio CD±RW</li><li>Audio CD, pressed</li><li>DVD-Audio</li><li>Minidisc</li><ul>
   | Audio Group 4 | Audio Grooved Disc | <ul><li>Aluminum-based lacquer coated discs</li><li>Glass-based lacquer coated discs</li><li>Paper-based lacquer coated discs</li><li>Microgroove discs (LP, Vinyl)</li><li>Replicated coarse groove disc (Shellac)</li><li>Gray Audograph discs</li><li>Edison Diamond Disc</li><li>Edison Voicewriter/li><li>Flexible disc/li><li>Gelatin disc/li><li>Metal disc/li><li>Metal master disc/li><ul>
   | Audio Group 5 | Audio Grooved Cylinder | <ul><li>Brown wax</li><li>Molded and Black Amberol</li><li>Blue Amberol / US Everlasting Indestructible</li><li>Dictabelt</li><ul>
 
 
   |Group | Type | Formats |
-  | --- | --- | ---- |
+  | ----- | ----- | ------ |
   | Data Group 1 | Data optical disc | <ul><li>CD±R</li><li>CD±RW</li><li>DVD±RW</li><ul>
 
 
