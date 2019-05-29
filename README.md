@@ -835,23 +835,22 @@ BEXT metadata must be embedded in each audio file upon capturing to WAV. See Met
 **CUE text files**
 
 In congress with capturing a Broadcast Wave file prior to transcoding to .flac, a CUE file must be generated. The CUE file must:
-    * Follow the same naming convention as the WAV file, but instead with a ".cue" extension. Example: "myh_123456_v01f01_pm.cue"
-    * Be referenced in the JSON file under the technical.cueFile field, by its complete filename
-    * Be nested within the Preservation Masters directory, accompanying the Preservation Master WAV file (the Edit master must not have a .cue file):
-        * PrimaryID
-            * data
-                * PreservationMasters
-                    * division_PrimaryID_v01f01.flac
-                    * division_PrimaryID_v01f01.cue
-                    * division_PrimaryID_v01f02.flac
-                    * division_PrimaryID_v01f02.cue
-                  * EditMasters
-                    * division_PrimaryID_v01f01.flac
-                    * division_PrimaryID_v01f02.flac
+  * Follow the same naming convention as the WAV file, but instead with a ".cue" extension. Example: "myh_123456_v01f01_pm.cue"
+  * Be referenced in the JSON file under the technical.cueFile field, by its complete filename
+  * Be nested within the Preservation Masters directory, accompanying the Preservation Master WAV file (the Edit master must not have a .cue file):
+      * PrimaryID
+          * data
+              * PreservationMasters
+                  * division_PrimaryID_v01f01.flac
+                  * division_PrimaryID_v01f01.cue
+                  * division_PrimaryID_v01f02.flac
+                  * division_PrimaryID_v01f02.cue
+                * EditMasters
+                  * division_PrimaryID_v01f01.flac
+                  * division_PrimaryID_v01f02.flac
 
   **_Preservation master file specifications: audio group 3: optical disc_**
 
-  | **Preservation master file specification: audio group 3** |
   | Attribute | Specification |
   | ---- | ----- |
   |Audio codec | Free Lossless Audio Codec (FLAC) |
@@ -863,7 +862,6 @@ In congress with capturing a Broadcast Wave file prior to transcoding to .flac, 
 
   **_Preservation master file specifications: audio group 4: grooved disc_**
 
-  | **Preservation master file specification: audio group 4** |
   | Attribute | Specification |
   | ---- | ----- |
   | Audio data encoding | Free Lossless Audio Codec (FLAC) |
