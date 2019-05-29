@@ -473,19 +473,19 @@ Project Files
 ### Treatment and rehousing: Audio media
 #### Audio reel and cassette rehousing:Reels and Cassettes
 Slotless hubs are preferred, dependent on funds approval by NYPL. If slotless hubs are not commercially available, reuse the original reel and wind one-eighth inch of leader tape around the hub to minimize the effect of the slot.
-        * Tape on 3-inch and 5-inch reels:
-            * Wind onto new 7-inch reels with slotless hubs.
-            * Retain original housing unless it meets housing discard criteria.
-        * Tape on 7-inch reels with slotted hubs:
-            * Wind onto new 7-inch reels with slotless hubs.  
-            * Retain and re-use original housing unless it meets housing discard criteria.
-        * Tape on 10.5-inch reels with slotted hubs:
-            * Wind onto new 10.5-inch reels with slotless hubs.  If 10.5-inch slotless reels are not commercially available, reuse the original reel and wind 1/8 inch of leader tape around the hub to minimize the effect of the slot on the magnetic tape.
-            * Retain and re-use original housing unless it meets housing discard criteria.
+    * Tape on 3-inch and 5-inch reels:
+        * Wind onto new 7-inch reels with slotless hubs.
+        * Retain original housing unless it meets housing discard criteria.
+    * Tape on 7-inch reels with slotted hubs:
+        * Wind onto new 7-inch reels with slotless hubs.  
+        * Retain and re-use original housing unless it meets housing discard criteria.
+    * Tape on 10.5-inch reels with slotted hubs:
+        * Wind onto new 10.5-inch reels with slotless hubs.  If 10.5-inch slotless reels are not commercially available, reuse the original reel and wind 1/8 inch of leader tape around the hub to minimize the effect of the slot on the magnetic tape.
+        * Retain and re-use original housing unless it meets housing discard criteria.
         * Reels should be re-boxed if the original box is damaging to the tape.
         * If original boxes are causing damage, or if the tape has been re-wound onto a larger reel, original boxes may be replaced with new 2-piece boxes should be constructed of either white paper-board or unbuffered Ph-neutral lignen-free board. Do not substitute polypropylene or other plastic cases unless specifically requested by NYPL.
-        * Cassettes:
-            * Replace broken shells and cases with new archival shells and cases, as approved by NYPL.
+    * Cassettes:
+        * Replace broken shells and cases with new archival shells and cases, as approved by NYPL.
 
 ### Treatment and rehousing: Grooved Disc
 #### Grooved Disc identification and rehousing
