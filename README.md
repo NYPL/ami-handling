@@ -10,7 +10,7 @@
 - [Images](#images)
 - [Digital Asset and Hard Drive Structure](#digital-asset-and-hard-drive-structure)
 - [Digital Asset Delivery](#digital-asset-delivery)
-- [Quality Assurance and Quality Control](#quality assurance-and-quality-control)
+- [Quality Assurance and Quality Control](#quality-assurance-and-quality-control)
 - [Environment and Security](#environment-and-security)
 - [Shipment of Physical Media](#shipment-of-physical-media)
 - [Treatment, Handling, and Rehousing of Physical Media](#treatment,-handling,-and-rehousing-of-physical-media)
