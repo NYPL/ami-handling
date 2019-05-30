@@ -774,14 +774,14 @@ Preservation master and edit master files must be captured/encoded as Broadcast 
 
 Files that exceed the Broadcast Wave Format 4GB file size limitation should be captured as RF64, with the same embedded metadata values. Post-capture, all Broadcast Wave and RF64 files should be transcoded to the FLAC codec and container, with embedded metadata and original modification times retained through the use of the FLAC Utility (https://xiph.org/flac/download.html) by following the command listed on the FFmprovisr website (https://amiaopensource.github.io/ffmprovisr/#flac-tool). Original capture as Wave64 (.w64) is not acceptable.
 
-Preservation master
+#### Preservation master
   * Technical guidelines: The production of preservation master files will comply with the technical recommendations, practices and strategies outlined by the International Association of Audiovisual Archives
   * Strategic guidelines - IASA-TC 03, version 3: The production of preservation master files will comply with the ethical recommendations, practices and strategies outlined by the International Association of Audiovisual Archives.
   * Optimal signal extraction from analog sources seeks to be complete, and includes the transfer of the “lead-in” and “play-out” portions of a recording.
   * Analog signals will be converted to a digital bitstream by means of an Analog-to-Digital converter which complies with the specifications in FADGI’s Audio Analog-to-Digital Converter Performance Specification and Test Method.
   * No signal processing will be applied to the Analog-to-Digital converter’s digital bitstream, including, but not limited to equalization, level adjustment, dither, noise reduction.
 
-Signal Extraction
+#### Signal Extraction
   * Signal extraction from analog original audio recordings will comply with the technical recommendations, practices and strategies outlined by the International Association of Audiovisual Archives.
   * Optimal signal extraction for the production of preservation master files should aim to capture the complete dynamic and frequency ranges of the original recording.
   * Signal extraction must be carried out using the equipment and accessories that are appropriate and intended for the original format characteristics.
@@ -807,7 +807,7 @@ Signal Extraction
             * Speed Changes: If multiple preservation masters are created for a single recording due to speed changes, the cut should be made at a logical break in the audible content (if at all possible), and there must be exactly 5 seconds of audible content overlapping between the tail of the first preservation master and the head of the following PM so that the regions may be recombined in the future if necessary.
             * Sampling Rate Changes: If a digital source object has been recorded at multiple sampling rates, a separate preservation master must be created for each region. _These regions do not need to overlap, but please include a note listing the timestamp on the source object where each region begins._
 
-**_Embedded metadata_**
+#### Embedded metadata
 BEXT metadata must be embedded in each audio file upon capturing to WAV. See Metadata section for details.
 
 **_Preservation master file specifications: audio group 1: analog magnetic_**
@@ -832,8 +832,7 @@ BEXT metadata must be embedded in each audio file upon capturing to WAV. See Met
 
 **_Preservation master file specifications: audio group 3: optical disc_**
 
-**CUE text files**
-
+#### CUE text files
 In congress with capturing a Broadcast Wave file prior to transcoding to .flac, a CUE file must be generated. The CUE file must:
   * Follow the same naming convention as the WAV file, but instead with a ".cue" extension. Example: "myh_123456_v01f01_pm.cue"
   * Be referenced in the JSON file under the technical.cueFile field, by its complete filename
@@ -870,7 +869,7 @@ In congress with capturing a Broadcast Wave file prior to transcoding to .flac, 
   | Sampling rate | 96,000 Hz |
   | Number of audio channels | 2 (left + right discrete) |
 
-Reproduction details  
+#### Reproduction details  
   * Playback EQ curves for all discs should be utilized.
       * If a disc’s playback curve is not known or stated on the label, the phono EQ should be set to RIAA (for microgrooves 1948-present) or a “default” curve of 400Hz turnover and -12dB @ 10kHz rolloff (for transcription discs). **All EQ curves should be noted in the metadata digitization process notes.**
   * Equipment
@@ -896,7 +895,7 @@ Reproduction details
   | Sampling rate | 96,000 Hz |
   | Number of audio channels | 2 (left + right discrete) |
 
-Reproduction Details
+#### Reproduction Details
   * No playback EQ curves for cylinder preservation masters. Must be transferred “flat”, with cartridge switched to “vertical”.  
   * At the start of the preservation master file, a 1kHz tone at operating level (-16 dBFS) for 30 seconds should be added.
   * Equipment must be approved by NYPL in writing. NYPL prefers use of Archeophone, Endpoint, or Levin CPS1 cylinder reproducers. Period equipment is not acceptable for use due to age and inconsistency of these machines and the greater potential for damage to the Archival Objects.
@@ -914,15 +913,15 @@ Reproduction Details
   | Sampling rate | equal to preservation master |
   | Number of audio channels | Mono, 1; Stereo, 2 |
 
-Head and Tail Edits (Trimming)
+#### Head and Tail Edits (Trimming)
   * The “needle-drop” and “needle-lift” present in preservation master files must be edited out of the edit master files.
   * Unrecorded portions of the collection object captured in the preservation master shall be eliminated.
   * Test tones and any equipment noise at the start and/or end of audible content (such as equipment on/off “clicks” or a stylus in the groove) should be trimmed. Trimming should not result in an abrupt start and/or end of audible content.
   * Elimination of the 5-second overlap included on any Preservation Masters that have been split out into multiple files for separate regions / streams / etc.
 
-Level adjustment  
+#### Level adjustment  
     * When balance and/or overall level are insufficient a peak level adjustment of max. -2db may be implemented as necessary.
-Channel Adjustment
+#### Channel Adjustment
     * Ensuring that "mono" is true mono
 
 ### DATA MEDIA  
