@@ -129,8 +129,8 @@ All tasks must comply with NYPL specifications, which are maintained in publical
 | Service file (sc) | x | x |  |  |
 | Metadata file (for each media files) | x | x | x |  |
 | Images | x | x | x | x |
-| Sidecar files (gz, scc, cue, etc.) | as specified |  |
-| BagIt manifests | as specified |
+| Sidecar files (gz, scc, cue, etc.) | as specified | as specified | as specified | |
+| BagIt manifests | as specified | as specified | as specified | as specified |
 
 
 <a name="metadata"></a>
