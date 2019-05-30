@@ -540,42 +540,45 @@ If the object has audio content (i.e. composite sound print), audio must be sync
 
 | Source format | 35mm | 16mm | 8mm / Super 8mm / Double 8mm |
 | ---- | ---- | ---- | ---- |
-| Video bit depth | 16 bit | 10 bit |
-| Resolution | 4K optical side overscan | 2K optical side overscan |
-| Video codec | FFv1 version 3 from DPX |
-| File wrapper | Matroska (.mkv) from DPX |
-| Frame size | 4096x3112 | 2048x1556 |
-| Frame rate | (Same as source. If not described, please determine on viewing and describe in metadata signal) |
-| Pixel aspect ratio | 1.000 |
-| Audio bit depth* | 24 bit |
-| Audio sampling rate* | 96,000 Hz |
-| Audio codec/data encoding* | FLAC from PCM/WAV |
-| Audio channels* | Same as source object |
-| Color space | Linear RGB | Color primaries | BT.709 |
+| Video bit depth | 16 bit | 10 bit | 10 bit |
+| Resolution | 4K optical side overscan | 2K optical side overscan | 2K optical side overscan |
+| Video codec | FFv1 version 3 from DPX | FFv1 version 3 from DPX  | FFv1 version 3 from DPX |
+| File wrapper | Matroska (.mkv) from DPX | Matroska (.mkv) from DPX | Matroska (.mkv) from DPX |
+| Frame size | 4096x3112 | 2048x1556 | 2048x1556 |
+| Frame rate | (Same as source. If not described, please determine on viewing and describe in metadata signal) | (Same as source. If not described, please determine on viewing and describe in metadata signal) | (Same as source. If not described, please determine on viewing and describe in metadata signal) |
+| Pixel aspect ratio | 1.000 | 1.000 | 1.000 |
+| Audio bit depth* | 24 bit | 24 bit | 24 bit |
+| Audio sampling rate* | 96,000 Hz | 96,000 Hz | 96,000 Hz |
+| Audio codec/data encoding* | FLAC from PCM/WAV | FLAC from PCM/WAV | FLAC from PCM/WAV |
+| Audio channels* | Same as source object | Same as source object | Same as source object |
+| Color space | Linear RGB | Linear RGB | Linear RGB |
+| Color primaries | BT.709 | BT.709 | BT.709 |
 | Transfer characteristics | Printing Density |
-| Notes | Transcoded to FFV1/MKV from DPX using RAWCooked |
+| Notes | Transcoded to FFV1/MKV from DPX using RAWCooked | Transcoded to FFV1/MKV from DPX using RAWCooked | Transcoded to FFV1/MKV from DPX using RAWCooked |
 
 #### _Mezzanine file specifications: Film group 1 & 2 (Motion picture film, silent / sound)_
 
 | Source format | 35mm | 16mm | 8mm / Super 8mm / Double 8mm |
 | --- | ---| --- | --- |
-| Bit depth | 10 bit |
-| Resolution | 1920 x 1080 |
-| Display aspect ratio | 16:9 pillarboxed / letter boxed as needed |
-| Video codec | ProResHQ |
-| File wrapper | Quicktime |
-| Frame size | 1920 x 1080 |
-| Frame rate | (Same as preservation master) |
-| Broadcast standard | NTSC |
-| Scan type | Progressive |
-| Pixel aspect ration | 1.000 |
-| Audio data encoding* | PCM |
-| Audio bit rate* | 2304 kbps |
-| Audio bit depth* | 24 bit |
-| Audio sampling* rate* | 48,000 Hz |
-| Audio channels* | same as Preservation Master* |
-| Color space | 4:2:2 |
+| Bit depth | 10 bit | 10 bit | 10 bit |
+| Resolution | 1920 x 1080 | 1920 x 1080 | 1920 x 1080 |
+| Display aspect ratio | 16:9 pillarboxed / letter boxed as needed | 16:9 pillarboxed / letter boxed as needed | 16:9 pillarboxed / letter boxed as needed |
+| Video codec | ProResHQ | ProResHQ | ProResHQ |
+| File wrapper | Quicktime | Quicktime | Quicktime |
+| Frame size | 1920 x 1080 | 1920 x 1080 | 1920 x 1080 |
+| Frame rate | (Same as preservation master) | (Same as preservation master) | (Same as preservation master) |
+| Broadcast standard | NTSC | NTSC | NTSC |
+| Scan type | Progressive | Progressive | Progressive |
+| Pixel aspect ration | 1.000 | 1.000 | 1.000 |
+| Audio data encoding* | PCM | PCM | PCM |
+| Audio bit rate* | 2304 kbps | 2304 kbps | 2304 kbps |
+| Audio bit depth* | 24 bit | 24 bit | 24 bit |
+| Audio sampling* rate* | 48,000 Hz | 48,000 Hz | 48,000 Hz |
+| Audio channels* | same as Preservation Master* | same as Preservation Master* | same as Preservation Master* |
+| Color space | 4:2:2 | 4:2:2 | 4:2:2 |
 | Image corrections | Color corrected for dye fading,
+Cropped to picture - no frame-lines or sound track visible, Non-anamorphic | Color corrected for dye fading,
+Cropped to picture - no frame-lines or sound track visible, Non-anamorphic | Color corrected for dye fading,
 Cropped to picture - no frame-lines or sound track visible, Non-anamorphic |
 
 #### _Service copy file specifications: Film group 1 & 2 (Motion picture film, silent / sound)_
@@ -585,20 +588,20 @@ Cropped to picture - no frame-lines or sound track visible, Non-anamorphic |
 | Bit depth | 8 bit | 8 bit | 8 bit |
 | Resolution | 720 x 486 | 720 x 486 | 720 x 486 |
 | Display aspect ratio | 4:3 letterboxed as needed | 4:3 letterboxed as needed | 4:3 letterboxed as needed |
-| Video codec | H264 | H264 |
-| File wrapper | MPEG-4 (.mp4) |
-| Color space | 4:2:2 |
-| Frame size | 720 x 486 |
-| Frame rate | (Same as preservation master) |
-| Broadcast standard | NTSC |
-| Scan type | Progressive |
-| Pixel aspect ratio | 1.000 |
-| Audio codec | AAC |
-| Audio bit rate | 320 kbs |
-| Audio sampling rate | 48,000 Hz |
-| Audio channels | same as Mezzanine* |
-| Image | Color corrected for dye fading |
-| corrections | Cropped to picture - no frame-lines or sound track visible, Non-anamorphic |
+| Video codec | H264 | H264 | H264 |
+| File wrapper | MPEG-4 (.mp4) | MPEG-4 (.mp4) | MPEG-4 (.mp4) |
+| Color space | 4:2:2 | 4:2:2 | 4:2:2 |
+| Frame size | 720 x 486 | 720 x 486 | 720 x 486 |
+| Frame rate | (Same as preservation master) | (Same as preservation master)  | (Same as preservation master) |
+| Broadcast standard | NTSC | NTSC | NTSC |
+| Scan type | Progressive | Progressive | Progressive |
+| Pixel aspect ratio | 1.000 | 1.000 | 1.000 |
+| Audio codec | AAC | AAC | AAC |
+| Audio bit rate | 320 kbs | 320 kbs | 320 kbs |
+| Audio sampling rate | 48,000 Hz | 48,000 Hz | 48,000 Hz |
+| Audio channels | same as Mezzanine* | same as Mezzanine* | same as Mezzanine* |
+| Image | Color corrected for dye fading | Color corrected for dye fading| Color corrected for dye fading |
+| corrections | Cropped to picture - no frame-lines or sound track visible, Non-anamorphic | Cropped to picture - no frame-lines or sound track visible, Non-anamorphic | Cropped to picture - no frame-lines or sound track visible, Non-anamorphic |
 
 ### Film Group 3: Audio film
 
