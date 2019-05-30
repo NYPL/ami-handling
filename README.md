@@ -912,9 +912,9 @@ In congress with capturing a Broadcast Wave file prior to transcoding to .flac, 
   * Elimination of the 5-second overlap included on any Preservation Masters that have been split out into multiple files for separate regions / streams / etc.
 
 #### Level adjustment  
-    * When balance and/or overall level are insufficient a peak level adjustment of max. -2db may be implemented as necessary.
+  * When balance and/or overall level are insufficient a peak level adjustment of max. -2db may be implemented as necessary.
 #### Channel Adjustment
-    * Ensuring that "mono" is true mono
+  * Ensuring that "mono" is true mono
 
 ### DATA MEDIA  
 #### Deliverables
