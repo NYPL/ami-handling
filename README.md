@@ -624,9 +624,8 @@ Cropped to picture - no frame-lines or sound track visible, Non-anamorphic |
 #### _Edit master file specifications: Film group 3 (Audio film)_
 
 | Attribute | Specification |
-| --- | ------ |
-| Source format | 35mm | 16mm | 8mm / Super 8mm / Double 8mm |
 | --- | ---| --- | --- |
+| Source format | 35mm | 16mm | 8mm / Super 8mm / Double 8mm |
 | Audio data encoding | Flac |
 | Wrapper | Flac |
 | Bit depth | equal to preservation master |
