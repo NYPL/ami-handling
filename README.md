@@ -625,13 +625,14 @@ Cropped to picture - no frame-lines or sound track visible, Non-anamorphic |
 
 | Source format | 35mm | 16mm | 8mm / Super 8mm / Double 8mm |
 | --- | ---| --- | --- |
-| Audio data encoding | Flac | Flac | Flac
+| Audio data encoding | Flac |
 | Wrapper | Flac |
 | Bit depth | equal to preservation master |
 | Sampling rate | equal to preservation master |
 | Number of audio channels | equal to preservation master |
 | Other characteristics | If there are tones / sync marks present, they must be captured and described in metadata signal notes |
 | BEXT metadata | BEXT metadata must be embedded as per specifications for audio deliverables |
+| --- | --- |
 
 ### Film Group 4: Filmstrips
 NYPL will review recommendations for digitization of filmstrips (and accompanying audio media, where applicable) before defining a specification. Requests for recommendations regarding these objects have been included in the Business Questions section.
