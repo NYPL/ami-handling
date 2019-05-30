@@ -926,7 +926,7 @@ Channel Adjustment
     * Ensuring that "mono" is true mono
 
 ### DATA MEDIA  
-####Deliverables
+#### Deliverables
 For each collection object, the following shall be produced:
   * One or more preservation master file(s)
   * One metadata file per media file
