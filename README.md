@@ -216,7 +216,6 @@ Image files should follow the same pattern as the media files, and be placed in 
 
 
 |Attribute| Specification |
-| --- | ------ |
 | Source format | (all magnetic and optical media) |
 | --- | ------ |
 | Bit depth | 8 bits per RGB Channel |
@@ -525,7 +524,7 @@ The following sections are broken into format groups to define the file delivera
 
 ### FILM MEDIA
 #### Film Groups 1 and 2: Motion Picture Film, Silent / Sound
-**_Deliverables_**
+#### _Deliverables_
 For each original recording, the following shall be produced:
   * One preservation master file*
   * One mezzanine file*
@@ -534,7 +533,7 @@ For each original recording, the following shall be produced:
 
 If the object has audio content (i.e. composite sound print), audio must be synchronized and embedded in all final deliverables.
 
-**_Capture tools_**
+#### _Capture tools_
   * Film must be digitized and captured as DPX, then transcoded with any synchronous Broadcast Wave files to FFV1/FLAC/Matroska using RAWcooked (https://mediaarea.net/RAWcooked)
 
 **_Preservation master file specifications: Film groups 1 & 2: Motion picture film, silent / sound_**
@@ -558,8 +557,6 @@ If the object has audio content (i.e. composite sound print), audio must be sync
 
 #### _Mezzanine file specifications: Film group 1 & 2 (Motion picture film, silent / sound)_
 
-| Attribute | Specification |
-| --- | ------ |
 | Source format | 35mm | 16mm | 8mm / Super 8mm / Double 8mm |
 | --- | ---| --- | --- |
 | Bit depth | 10 bit |
@@ -581,16 +578,14 @@ If the object has audio content (i.e. composite sound print), audio must be sync
 | Image corrections | Color corrected for dye fading,
 Cropped to picture - no frame-lines or sound track visible, Non-anamorphic |
 
-####_Service copy file specifications: Film group 1 & 2 (Motion picture film, silent / sound)_
+#### _Service copy file specifications: Film group 1 & 2 (Motion picture film, silent / sound)_
 
-| Attribute | Specification |
-| --- | ------ |
 | Source format | 35mm | 16mm | 8mm / Super 8mm / Double 8mm |
 | --- | ---| --- | --- |
-| Bit depth | 8 bit |
-| Resolution | 720 x 486 |
-| Display aspect ratio | 4:3 letterboxed as needed |
-| Video codec | H264 |
+| Bit depth | 8 bit | 8 bit | 8 bit |
+| Resolution | 720 x 486 | 720 x 486 | 720 x 486 |
+| Display aspect ratio | 4:3 letterboxed as needed | 4:3 letterboxed as needed | 4:3 letterboxed as needed |
+| Video codec | H264 | H264 |
 | File wrapper | MPEG-4 (.mp4) |
 | Color space | 4:2:2 |
 | Frame size | 720 x 486 |
@@ -609,17 +604,15 @@ Cropped to picture - no frame-lines or sound track visible, Non-anamorphic |
 
 #### _Preservation master file specifications: Film group 3 (Audio film)_
 
-| Attribute | Specification |
-| --- | ------ |
 | Source format | 35mm | 16mm | 8mm / Super 8mm / Double 8mm |
 | --- | ---| --- | --- |
-| Audio data encoding | Free Lossless Audio Encoding (FLAC) |
-| Wrapper | FLAC (.flac) |
-| Bit depth | 24 bit |
-| Sampling rate | 96,000 Hz |
-| Number of audio channels | (same as source) |
-| Other characteristics | If there are tones / sync marks present, they must be captured or resolved and described in metadata signal notes. |
-| BEXT metadata | If possible, BEXT metadata must be embedded as per specifications for audio deliverables |
+| Audio data encoding | Free Lossless Audio Encoding (FLAC) | Free Lossless Audio Encoding (FLAC) | Free Lossless Audio Encoding (FLAC) |
+| Wrapper | FLAC (.flac) | FLAC (.flac) | FLAC (.flac) |
+| Bit depth | 24 bit | 24 bit | 24 bit |
+| Sampling rate | 96,000 Hz | 96,000 Hz | 96,000 Hz |
+| Number of audio channels | (same as source) | (same as source) |
+| Other characteristics | If there are tones / sync marks present, they must be captured or resolved and described in metadata signal notes. | If there are tones / sync marks present, they must be captured or resolved and described in metadata signal notes. | If there are tones / sync marks present, they must be captured or resolved and described in metadata signal notes. |
+| BEXT metadata | If possible, BEXT metadata must be embedded as per specifications for audio deliverables | If possible, BEXT metadata must be embedded as per specifications for audio deliverables | If possible, BEXT metadata must be embedded as per specifications for audio deliverables |
 
 #### _Edit master file specifications: Film group 3 (Audio film)_
 
@@ -631,7 +624,7 @@ Cropped to picture - no frame-lines or sound track visible, Non-anamorphic |
 | Sampling rate | equal to preservation master | equal to preservation master | equal to preservation master |
 | Number of audio channels | equal to preservation master | equal to preservation master | equal to preservation master|
 | Other characteristics | If there are tones / sync marks present, they must be captured and described in metadata signal notes | If there are tones / sync marks present, they must be captured and described in metadata signal notes | If there are tones / sync marks present, they must be captured and described in metadata signal notes |
-| BEXT metadata | BEXT metadata must be embedded as per specifications for audio deliverables | BEXT metadata must be embedded as per specifications for audio deliverables | BEXT metadata must be embedded as per specifications for audio deliverables | 
+| BEXT metadata | BEXT metadata must be embedded as per specifications for audio deliverables | BEXT metadata must be embedded as per specifications for audio deliverables | BEXT metadata must be embedded as per specifications for audio deliverables |
 
 
 ### Film Group 4: Filmstrips
