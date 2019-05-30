@@ -553,7 +553,7 @@ If the object has audio content (i.e. composite sound print), audio must be sync
 | Audio channels* | Same as source object | Same as source object | Same as source object |
 | Color space | Linear RGB | Linear RGB | Linear RGB |
 | Color primaries | BT.709 | BT.709 | BT.709 |
-| Transfer characteristics | Printing Density |
+| Transfer characteristics | Printing Density | Printing Density | Printing Density |
 | Notes | Transcoded to FFV1/MKV from DPX using RAWCooked | Transcoded to FFV1/MKV from DPX using RAWCooked | Transcoded to FFV1/MKV from DPX using RAWCooked |
 
 #### _Mezzanine file specifications: Film group 1 & 2 (Motion picture film, silent / sound)_
@@ -613,7 +613,7 @@ Cropped to picture - no frame-lines or sound track visible, Non-anamorphic |
 | Wrapper | FLAC (.flac) | FLAC (.flac) | FLAC (.flac) |
 | Bit depth | 24 bit | 24 bit | 24 bit |
 | Sampling rate | 96,000 Hz | 96,000 Hz | 96,000 Hz |
-| Number of audio channels | (same as source) | (same as source) |
+| Number of audio channels | (same as source) | (same as source) | (same as source) |
 | Other characteristics | If there are tones / sync marks present, they must be captured or resolved and described in metadata signal notes. | If there are tones / sync marks present, they must be captured or resolved and described in metadata signal notes. | If there are tones / sync marks present, they must be captured or resolved and described in metadata signal notes. |
 | BEXT metadata | If possible, BEXT metadata must be embedded as per specifications for audio deliverables | If possible, BEXT metadata must be embedded as per specifications for audio deliverables | If possible, BEXT metadata must be embedded as per specifications for audio deliverables |
 
