@@ -24,6 +24,7 @@
   - [Statement of Work \(SOW\)](#statement-of-work-sow)
   - [Statement of Work Inventory](#statement-of-work-inventory)
   - [Contractor Quote](#contractor-quote)
+  - [Invoice(s)](#invoices)
   - [Original Media Shipping Document](#original-media-shipping-document)
   - [Did Not Receive Report](#did-not-receive-report)
   - [Extra Assets Report](#extra-assets-report)
@@ -419,6 +420,20 @@ Media have been organized into groups according to NYPL Preservation Master Spec
       * Special treatment
       * Hard drive shipping fees
       * Hard drives storage
+
+<a name="invoices"></a>
+### Invoice(s)
+* Produced by: Vendor
+* Scope: Per Hard Drive Shipment
+* Expected: Following each shipment of digital assets
+* Format: PDF
+* Naming convention: add Purchase Order number as a prefix and date to Contractor’s naming convention.
+* Required information
+  * Cost of digitization 
+  * Total number of objects digitized per format
+  * Cost for hdd and hdd delivery
+  * List of related Hard Drive / Shipment IDs
+
 
 <a name="original-media-shipping-document"></a>
 ### Original Media Shipping Document
