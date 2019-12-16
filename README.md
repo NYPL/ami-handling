@@ -320,7 +320,7 @@ Media have been organized into groups according to NYPL Preservation Master Spec
 
 |Type | Formats |
 | --- | ----|
-| Video Cassette DV | <li>DVCam</li><li>MiniDV</li><li>HDV</li><li>DVCPRO</li><li>DVCPRO 50</li><li>DVCPRO HD</li>
+| Video Cassette Digital (DV) | <li>DVCam</li><li>MiniDV</li><li>HDV</li><li>DVCPRO</li><li>DVCPRO 50</li><li>DVCPRO HD</li>
 
 <a name="video-group-3"></a>
 ### Video Group 3
