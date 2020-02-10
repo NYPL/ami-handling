@@ -513,7 +513,7 @@ Media have been organized into groups according to NYPL Preservation Master Spec
   * Produced by: Contractor
   * Expected: at conclusion of project
   * Format: Excel spreadsheet
-  * File naming convention: ```(SOW_ID)_keyword_didnotcapture_yyyymmdd.xls```
+  * File naming convention: ```(SOW_ID)_keyword_captureissues_yyyymmdd.xls```
     * Example: 2017_001_jones1_captureissues_20171201.xls
   * Data fields / required information
     * Primary ID (NOT the root file name)
@@ -536,3 +536,14 @@ Media have been organized into groups according to NYPL Preservation Master Spec
     * Instructions:
       * Each preservation master file should receive a corresponding QCTools report, which will be included in the PreservationMasters Bagged directory.
       * The reports on each hard drive should only reference the media contained on the hard drive.
+
+<a name="compression-report"></a>
+### Compression Report
+
+  * Scope: spreadsheet listing original file size at point of capture for each object digitized, and the resulting file size after lossless compression.
+  * Produced by: Contractor
+  * Expected: at conclusion of project
+  * Format: Excel spreadsheet
+  * File naming convention: ```(SOW_ID)_keyword_compressionReport_yyyymmdd.xls```
+  * Example: 2017_001_jones1_compressionReport_20171201.xls
+ 
